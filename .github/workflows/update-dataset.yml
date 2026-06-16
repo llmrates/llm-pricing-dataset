@@ -5,8 +5,8 @@ name: Update dataset
 
 on:
   schedule:
-    # Daily at 05:17 UTC (off the hour to avoid GitHub's cron congestion).
-    - cron: "17 5 * * *"
+    # Daily at 12:30 UTC = 20:30 Asia/Shanghai (UTC+8, no DST).
+    - cron: "30 12 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Fetch dataset
         run: |
