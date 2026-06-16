@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "name": "Open LLM API Pricing Dataset",
+    "publisher": "LLMRates.ai",
+    "source": "https://www.llmrates.ai",
+    "datasetUrl": "https://www.llmrates.ai/open-llm-pricing-dataset",
+    "repoUrl": "https://github.com/llmrates/llm-pricing-dataset",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Seed placeholder — populated daily by the update-dataset GitHub Action from https://www.llmrates.ai/api/dataset",
+    "modelCount": 0,
+    "providerCount": 0,
+    "priceRowCount": 0
+  },
+  "providers": [],
+  "models": []
+}

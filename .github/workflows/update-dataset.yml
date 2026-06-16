@@ -1,0 +1,62 @@
+name: Update dataset
+
+# Pulls the latest pricing data from the public LLMRates.ai export API and
+# commits any changes. No secrets required — the API is public and read-only.
+
+on:
+  schedule:
+    # Daily at 05:17 UTC (off the hour to avoid GitHub's cron congestion).
+    - cron: "17 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-dataset
+  cancel-in-progress: false
+
+env:
+  API: https://www.llmrates.ai/api/dataset
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch dataset
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 \
+            "$API"                              -o data/dataset.json
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 \
+            "$API?type=models"                  -o data/models.json
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 \
+            "$API?type=models&format=csv"       -o data/models.csv
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 \
+            "$API?type=providers"               -o data/providers.json
+          curl --fail --silent --show-error --retry 3 --retry-delay 5 \
+            "$API?type=providers&format=csv"    -o data/providers.csv
+
+      - name: Validate JSON
+        run: |
+          set -euo pipefail
+          for f in data/dataset.json data/models.json data/providers.json; do
+            python3 -c "import json,sys; json.load(open('$f')); print('ok', '$f')"
+          done
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          git config user.name  "llmrates-bot"
+          git config user.email "bot@llmrates.ai"
+          if git diff --quiet -- data/; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add data/
+          git commit -m "chore: update dataset ($(date -u +%Y-%m-%d))"
+          git push
