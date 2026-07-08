@@ -12,7 +12,7 @@ minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/doc
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,21,
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,10,
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,23,
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,376,
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,378,
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,
 qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,336,
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,
