@@ -14,7 +14,7 @@ moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moo
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,26,
 openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,387,
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,
-qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,337,
+qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,338,
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,
 volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,38,
 xai,xAI,,https://x.ai,https://docs.x.ai/developers/models,direct,13,
