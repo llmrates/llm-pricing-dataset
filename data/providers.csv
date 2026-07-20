@@ -1,7 +1,7 @@
 slug,name,name_local,website,pricing_url,provider_type,model_count,description
 anthropic,Anthropic,,https://anthropic.com,https://docs.anthropic.com/en/docs/about-claude/pricing,direct,21,
 aws-bedrock,AWS Bedrock,,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/,cloud,143,
-azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,88,
+azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,94,
 cohere,Cohere,,https://cohere.com,https://cohere.com/pricing,direct,7,
 cursor,Cursor,,https://cursor.com,https://cursor.com/docs/models-and-pricing,aggregator,16,
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,2,
