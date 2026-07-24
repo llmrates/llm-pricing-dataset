@@ -1,10 +1,14 @@
 slug,name,name_local,website,pricing_url,provider_type,model_count,description
+ai21,AI21 Labs,,https://www.ai21.com,https://www.ai21.com/pricing/,direct,2,"AI21 Labs builds the Jamba family of hybrid SSM-Transformer models with long context windows, offered via its own API with per-token pricing."
 anthropic,Anthropic,,https://anthropic.com,https://docs.anthropic.com/en/docs/about-claude/pricing,direct,21,
 aws-bedrock,AWS Bedrock,,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/,cloud,143,
 azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,94,
+cloudflare,Cloudflare Workers AI,,https://www.cloudflare.com/developer-platform/products/workers-ai/,https://developers.cloudflare.com/workers-ai/platform/pricing/,aggregator,39,"Cloudflare Workers AI runs open models (Llama, Qwen, Mistral, Gemma, GPT-OSS, plus embeddings and speech) on Cloudflare's global edge network, billed per token in USD (also denominated in Neurons)."
 cohere,Cohere,,https://cohere.com,https://cohere.com/pricing,direct,7,
 cursor,Cursor,,https://cursor.com,https://cursor.com/docs/models-and-pricing,aggregator,18,
+deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,137,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs."
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,2,
+fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,16,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts."
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,42,
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,85,
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,13,
@@ -12,11 +16,16 @@ meshsone,Meshs One,,https://meshs.one,https://api.meshs.one/pricing,aggregator,3
 minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,34,
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,21,
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,11,
+novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,142,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching."
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,26,
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,398,
+opencode-zen,OpenCode Zen,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,58,"OpenCode Zen is the API gateway for the OpenCode coding agent, offering GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) through one endpoint — including several models free for a limited time."
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,399,
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,
 qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,355,
+runway,Runway,,https://runwayml.com,https://docs.dev.runwayml.com/guides/pricing/,direct,15,"Runway builds frontier video-generation models (Gen-4, Aleph) plus hosted partner models (Veo, Seedance), billed per second of generated video via its API."
+sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans/pricing,aggregator,6,"SambaNova Cloud runs open models (DeepSeek, Llama, Qwen) on custom RDU hardware for record-fast token throughput, billed per token."
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,
+stepfun,StepFun,阶跃星辰,https://www.stepfun.com,https://platform.stepfun.com/docs/zh/guides/pricing/details,direct,9,"StepFun (阶跃星辰) is a Chinese AI lab building the Step series of multimodal foundation models (text, vision and audio), offered via its own API with per-token pricing and prompt caching."
 volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,38,
 xai,xAI,,https://x.ai,https://docs.x.ai/developers/models,direct,13,
 zhipu,Zhipu,智谱,https://open.bigmodel.cn,https://bigmodel.cn/pricing,direct,59,
