@@ -9,6 +9,7 @@ cursor,Cursor,,https://cursor.com,https://cursor.com/docs/models-and-pricing,agg
 deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,137,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs."
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,2,
 fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,16,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts."
+github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://github.com/features/copilot/plans,coding_tool,0,"GitHub's coding assistant, sold only as a subscription. Billing moved from premium requests to AI credits, published at 1 credit = $0.01 USD."
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,42,
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,86,
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,13,
