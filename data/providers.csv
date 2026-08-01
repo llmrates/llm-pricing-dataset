@@ -7,9 +7,9 @@ cloudflare,Cloudflare Workers AI,,https://www.cloudflare.com/developer-platform/
 codebuddy,CodeBuddy,腾讯云代码助手,https://www.codebuddy.cn,https://www.codebuddy.cn/docs/workbuddy/Pricing,coding_tool,0,"Tencent's coding assistant. CodeBuddy and the WorkBuddy desktop agent bill against one shared credit balance, so a subscription covers both.",coding_tool
 cohere,Cohere,,https://cohere.com,https://cohere.com/pricing,direct,7,,direct
 cursor,Cursor,,https://cursor.com,https://cursor.com/docs/models-and-pricing,aggregator,19,,aggregator|coding_tool
-deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,143,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs.",aggregator
+deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,145,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs.",aggregator
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,2,,direct
-fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,19,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts.",aggregator
+fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,21,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts.",aggregator
 github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://github.com/features/copilot/plans,coding_tool,0,"GitHub's coding assistant, sold only as a subscription. Billing moved from premium requests to AI credits, published at 1 credit = $0.01 USD.",coding_tool
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,44,,direct|coding_tool
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,86,,cloud
@@ -18,13 +18,13 @@ meshsone,Meshs One,,https://meshs.one,https://api.meshs.one/pricing,aggregator,3
 minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,34,,direct|coding_tool
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,21,,direct
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,11,,direct|coding_tool
-novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,143,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
+novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,144,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,27,,direct|coding_tool
 opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,60,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,431,,aggregator
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,432,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
-qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,359,,direct
+qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,360,,direct
 runway,Runway,,https://runwayml.com,https://docs.dev.runwayml.com/guides/pricing/,direct,15,"Runway builds frontier video-generation models (Gen-4, Aleph) plus hosted partner models (Veo, Seedance), billed per second of generated video via its API.",direct
 sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans/pricing,aggregator,6,"SambaNova Cloud runs open models (DeepSeek, Llama, Qwen) on custom RDU hardware for record-fast token throughput, billed per token.",aggregator
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,,aggregator
