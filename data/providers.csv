@@ -21,7 +21,7 @@ moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moo
 novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,144,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,27,,direct|coding_tool
 opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,60,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,432,,aggregator
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,433,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
 qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,360,,direct
