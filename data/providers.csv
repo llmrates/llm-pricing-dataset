@@ -15,21 +15,21 @@ google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/doc
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,86,,cloud
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,13,,aggregator
 meshsone,Meshs One,,https://meshs.one,https://api.meshs.one/pricing,aggregator,32,"Meshs One is an AI API gateway connecting developers to 200+ models (including DeepSeek, GLM, Qwen, MiniMax, Kimi and Claude/GPT) through a unified API. One key, one billing pipeline. No markup on Chinese models.",aggregator
-minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,34,,direct|coding_tool
+minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,29,,direct|coding_tool
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,21,,direct
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,11,,direct|coding_tool
 novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,145,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,27,,direct|coding_tool
-opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,60,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
+opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,61,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
 openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,434,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
-qwen,Qwen,阿里云百炼,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,361,,direct
+qwen,Qwen,千问,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,363,,direct|coding_tool
 runway,Runway,,https://runwayml.com,https://docs.dev.runwayml.com/guides/pricing/,direct,15,"Runway builds frontier video-generation models (Gen-4, Aleph) plus hosted partner models (Veo, Seedance), billed per second of generated video via its API.",direct
 sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans/pricing,aggregator,6,"SambaNova Cloud runs open models (DeepSeek, Llama, Qwen) on custom RDU hardware for record-fast token throughput, billed per token.",aggregator
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,,aggregator
 stepfun,StepFun,阶跃星辰,https://www.stepfun.com,https://platform.stepfun.com/docs/zh/guides/pricing/details,direct,9,"StepFun (阶跃星辰) is a Chinese AI lab building the Step series of multimodal foundation models (text, vision and audio), offered via its own API with per-token pricing and prompt caching.",direct
 trae,TRAE,,https://www.trae.cn,https://www.trae.cn/pricing,coding_tool,0,ByteDance's AI IDE. Paid tiers currently sell queue priority (速通) rather than an allowance; a credit-based plan was announced for 2026-07-30.,coding_tool
 volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,39,,aggregator
-xai,xAI,,https://x.ai,https://docs.x.ai/developers/models,direct,13,,direct
+xai,xAI,,https://x.ai,https://docs.x.ai/developers/models,direct,16,,direct
 zhipu,Zhipu,智谱,https://open.bigmodel.cn,https://bigmodel.cn/pricing,direct,59,,direct|coding_tool
