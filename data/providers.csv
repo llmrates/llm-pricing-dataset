@@ -2,7 +2,7 @@ slug,name,name_local,website,pricing_url,provider_type,model_count,description,p
 ai21,AI21 Labs,,https://www.ai21.com,https://www.ai21.com/pricing/,direct,2,"AI21 Labs builds the Jamba family of hybrid SSM-Transformer models with long context windows, offered via its own API with per-token pricing.",direct
 anthropic,Anthropic,,https://anthropic.com,https://docs.anthropic.com/en/docs/about-claude/pricing,direct,23,,direct|coding_tool
 aws-bedrock,AWS Bedrock,,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/,cloud,147,,cloud
-azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,94,,cloud
+azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,95,,cloud
 cloudflare,Cloudflare Workers AI,,https://www.cloudflare.com/developer-platform/products/workers-ai/,https://developers.cloudflare.com/workers-ai/platform/pricing/,aggregator,42,"Cloudflare Workers AI runs open models (Llama, Qwen, Mistral, Gemma, GPT-OSS, plus embeddings and speech) on Cloudflare's global edge network, billed per token in USD (also denominated in Neurons).",aggregator
 codebuddy,CodeBuddy,腾讯云代码助手,https://www.codebuddy.cn,https://www.codebuddy.cn/docs/workbuddy/Pricing,coding_tool,0,"Tencent's coding assistant. CodeBuddy and the WorkBuddy desktop agent bill against one shared credit balance, so a subscription covers both.",coding_tool
 cohere,Cohere,,https://cohere.com,https://cohere.com/pricing,direct,7,,direct
@@ -19,14 +19,14 @@ mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,dire
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,11,,direct|coding_tool
 novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,149,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,28,,direct|coding_tool
-opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,71,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,486,,aggregator
+opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,72,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,487,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
 qwen,Qwen,千问,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,372,,direct|coding_tool
 runway,Runway,,https://runwayml.com,https://docs.dev.runwayml.com/guides/pricing/,direct,15,"Runway builds frontier video-generation models (Gen-4, Aleph) plus hosted partner models (Veo, Seedance), billed per second of generated video via its API.",direct
 sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans/pricing,aggregator,6,"SambaNova Cloud runs open models (DeepSeek, Llama, Qwen) on custom RDU hardware for record-fast token throughput, billed per token.",aggregator
-siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,51,,aggregator
+siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,52,,aggregator
 stepfun,StepFun,阶跃星辰,https://www.stepfun.com,https://platform.stepfun.com/docs/zh/guides/pricing/details,direct,9,"StepFun (阶跃星辰) is a Chinese AI lab building the Step series of multimodal foundation models (text, vision and audio), offered via its own API with per-token pricing and prompt caching.",direct
 trae,TRAE,,https://www.trae.cn,https://www.trae.cn/pricing,coding_tool,0,ByteDance's AI IDE. Paid tiers currently sell queue priority (速通) rather than an allowance; a credit-based plan was announced for 2026-07-30.,coding_tool
 volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,39,,aggregator
