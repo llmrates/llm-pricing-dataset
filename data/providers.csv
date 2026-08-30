@@ -14,7 +14,7 @@ github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://githu
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,48,,direct|coding_tool
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,97,,cloud
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,16,,aggregator
-minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,29,,direct|coding_tool
+minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,30,,direct|coding_tool
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,26,,direct
 moonshot,Moonshot,月之暗面,https://platform.moonshot.cn,https://platform.moonshot.cn/,direct,11,,direct|coding_tool
 novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,155,"Novita AI is an open-model inference aggregator with an OpenAI-compatible API, hosting DeepSeek, Llama, Qwen, GLM, Kimi and MiniMax models with per-token pricing and prompt caching.",aggregator
