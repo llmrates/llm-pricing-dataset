@@ -11,7 +11,7 @@ deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggrega
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,4,,direct
 fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,30,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts.",aggregator
 github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://github.com/features/copilot/plans,coding_tool,0,"GitHub's coding assistant, sold only as a subscription. Billing moved from premium requests to AI credits, published at 1 credit = $0.01 USD.",coding_tool
-google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,52,,direct|coding_tool
+google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,53,,direct|coding_tool
 vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,99,,cloud
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,16,,aggregator
 minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,30,,direct|coding_tool
