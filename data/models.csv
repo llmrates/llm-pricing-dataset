@@ -765,8 +765,8 @@ google-gemini,Google,gemini-2.0-flash,Gemini 2.0 Flash,Gemini,general,,,image|te
 google-gemini,Google,gemini-2.0-flash-lite,Gemini 2.0 Flash-Lite,Gemini,general,,,image|text,true,false,false,standard,,,,,USD,0.075,,0.3,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-2.5-computer-use-preview,Gemini 2.5 Computer Use Preview,Gemini,general,,,text,true,false,false,standard,0,200000,,,USD,1.25,,10,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-2.5-computer-use-preview,Gemini 2.5 Computer Use Preview,Gemini,general,,,text,true,false,false,standard,200000,,,,USD,2.5,,15,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-2.5-flash,Gemini 2.5 Flash,Gemini,general,,,text|image,true,false,true,standard,,,text/image/video,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-2.5-flash,Gemini 2.5 Flash,Gemini,general,,,text|image,true,false,true,standard,,,audio,,USD,1,0.1,2.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-2.5-flash,Gemini 2.5 Flash,Gemini,general,,,image|text,true,false,true,standard,,,text/image/video,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-2.5-flash,Gemini 2.5 Flash,Gemini,general,,,image|text,true,false,true,standard,,,audio,,USD,1,0.1,2.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-2.5-flash-image,Gemini 2.5 Flash Image,Gemini,general,,,text|image,true,false,false,standard,,,,,USD,0.3,,0.039,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-2.5-flash-image-nano-banana,Gemini 2.5 Flash Image (Nano Banana),Gemini,general,,,text|image,true,false,false,standard,,,,,USD,0.3,,,,,0.039,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,Gemini,general,,,text|image,true,false,true,standard,,,text/image/video,,USD,,0.01,0.4,,,,0.1,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
@@ -783,12 +783,12 @@ google-gemini,Google,gemini-3.1-flash-image,Gemini 3.1 Flash Image,Gemini,genera
 google-gemini,Google,gemini-3.1-flash-image,Gemini 3.1 Flash Image,Gemini,general,,,image|text,true,false,false,standard,,,images,,USD,0.5,,60,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-image-nano-banana-2,Gemini 3.1 Flash Image (Nano Banana 2),Gemini,general,,,text|image,true,false,false,standard,,,text,,USD,0.5,,3,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-image-nano-banana-2,Gemini 3.1 Flash Image (Nano Banana 2),Gemini,general,,,text|image,true,false,false,standard,,,images,,USD,0.5,,60,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text|image,true,false,true,standard,,,text/image/video,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text|image,true,false,true,standard,,,audio,,USD,0.5,0.05,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,image|text,true,false,true,standard,,,text/image/video,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,image|text,true,false,true,standard,,,audio,,USD,0.5,0.05,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-lite-image,Gemini 3.1 Flash Lite Image,Gemini,general,,,text|image,true,false,false,standard,,,text,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-lite-image,Gemini 3.1 Flash Lite Image,Gemini,general,,,text|image,true,false,false,standard,,,images,,USD,0.25,,30,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite),Gemini,general,,,image|text,true,false,false,standard,,,text,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite),Gemini,general,,,image|text,true,false,false,standard,,,images,,USD,0.25,,30,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite),Gemini,general,,,text|image,true,false,false,standard,,,text,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite),Gemini,general,,,text|image,true,false,false,standard,,,images,,USD,0.25,,30,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-live-preview,Gemini 3.1 Flash Live Preview,Gemini,general,,,image|text,true,false,false,standard,,,text/image/video,,USD,0.75,,4.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-live-preview,Gemini 3.1 Flash Live Preview,Gemini,general,,,image|text,true,false,false,standard,,,audio,,USD,3,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.1-flash-tts-preview,Gemini 3.1 Flash TTS Preview,Gemini,general,,,speech,true,false,false,standard,,,,,USD,1,,20,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
@@ -800,18 +800,18 @@ google-gemini,Google,gemini-3.5-live-translate,Gemini 3.5 Live Translate,Gemini,
 google-gemini,Google,gemini-3.5-transcribe,Gemini 3.5 Transcribe,Gemini,general,,,text,true,false,false,standard,,,,,USD,2,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.5-transcribe-live,Gemini 3.5 Transcribe Live,Gemini,general,,,text,true,false,false,standard,,,,,USD,3.5,,21,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.6-flash,Gemini 3.6 Flash,Gemini,general,,,text|image,true,false,true,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.7-flash,Gemini 3.7 Flash,Gemini,general,,,text|image,true,false,true,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.7-flash,Gemini 3.7 Flash,Gemini,general,,,image|text,true,false,true,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.8-flash,Gemini 3.8 Flash,Gemini,general,,,image|text,true,false,true,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.8-flash-lite-tts,Gemini 3.8 Flash-Lite TTS,Gemini,general,,,speech,true,false,true,standard,,,,,USD,0.5,0.125,6,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3.8-flash-tts,Gemini 3.8 Flash TTS,Gemini,general,,,speech,true,false,true,standard,,,,,USD,0.5,0.125,9,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.8-live-gemini-3.8-live-extended-thinking-and-gemini-3.1-flash-live-preview,"Gemini 3.8 Live, Gemini 3.8 Live Extended Thinking, and Gemini 3.1 Flash Live Preview",Gemini,general,,,text|image,true,false,false,standard,,,text/image/video,,USD,0.75,,4.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3.8-live-gemini-3.8-live-extended-thinking-and-gemini-3.1-flash-live-preview,"Gemini 3.8 Live, Gemini 3.8 Live Extended Thinking, and Gemini 3.1 Flash Live Preview",Gemini,general,,,text|image,true,false,false,standard,,,audio,,USD,3,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.8-live-gemini-3.8-live-extended-thinking-and-gemini-3.1-flash-live-preview,"Gemini 3.8 Live, Gemini 3.8 Live Extended Thinking, and Gemini 3.1 Flash Live Preview",Gemini,general,,,image|text,true,false,false,standard,,,text/image/video,,USD,0.75,,4.5,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3.8-live-gemini-3.8-live-extended-thinking-and-gemini-3.1-flash-live-preview,"Gemini 3.8 Live, Gemini 3.8 Live Extended Thinking, and Gemini 3.1 Flash Live Preview",Gemini,general,,,image|text,true,false,false,standard,,,audio,,USD,3,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,Gemini,general,,,text|image,true,false,true,standard,,,text/image/video,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,Gemini,general,,,text|image,true,false,true,standard,,,audio,,USD,1,0.1,3,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3-pro-image,Gemini 3 Pro Image,Gemini,general,,,text|image,true,false,false,standard,,,text,,USD,2,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-3-pro-image,Gemini 3 Pro Image,Gemini,general,,,text|image,true,false,false,standard,,,images,,USD,2,,120,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3-pro-image-nano-banana-pro,Gemini 3 Pro Image (Nano Banana Pro),Gemini,general,,,text|image,true,false,false,standard,,,text,,USD,2,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
-google-gemini,Google,gemini-3-pro-image-nano-banana-pro,Gemini 3 Pro Image (Nano Banana Pro),Gemini,general,,,text|image,true,false,false,standard,,,images,,USD,2,,120,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3-pro-image-nano-banana-pro,Gemini 3 Pro Image (Nano Banana Pro),Gemini,general,,,image|text,true,false,false,standard,,,text,,USD,2,,12,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
+google-gemini,Google,gemini-3-pro-image-nano-banana-pro,Gemini 3 Pro Image (Nano Banana Pro),Gemini,general,,,image|text,true,false,false,standard,,,images,,USD,2,,120,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-embedding,Gemini Embedding,Gemini,general,,,embedding,true,false,false,standard,,,,,USD,0.15,,,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-embedding-2,Gemini Embedding 2,Gemini,general,,,embedding,true,false,false,standard,,,,,USD,0.2,,,,,,0.45,,,6.5,,,12,,,,,https://ai.google.dev/gemini-api/docs/pricing
 google-gemini,Google,gemini-omni-flash,Gemini Omni Flash,Gemini,general,,,text|image,true,false,false,standard,,,,,USD,1.5,,9,,,,,,,,,,,,,,,https://ai.google.dev/gemini-api/docs/pricing
@@ -1198,8 +1198,8 @@ novita,Novita AI,deepseek-deepseek-v4-pro-0813-p,deepseek/deepseek-v4-pro-0813-p
 novita,Novita AI,deepseek-deepseek-ocr,DeepSeek OCR,DeepSeek,general,8192,8192,text,false,false,false,standard,,,,,USD,0.03,,0.03,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-ocr
 novita,Novita AI,deepseek-deepseek-ocr-2,DeepSeek OCR 2,DeepSeek,general,8192,8192,text,false,false,false,standard,,,,,USD,0.03,,0.03,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-ocr-2
 novita,Novita AI,deepseek-deepseek-prover-v2-671b,Deepseek Prover V2 671B,DeepSeek,general,160000,160000,text,false,false,false,standard,,,,,USD,0.7,,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-prover-v2-671b
-novita,Novita AI,deepseek-deepseek-r1-community,DeepSeek R1,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-r1,DeepSeek R1,DeepSeek,general,64000,16000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1
+novita,Novita AI,deepseek-deepseek-r1-community,DeepSeek R1,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-r1-0528,DeepSeek R1 0528,DeepSeek,general,163840,32768,text,true,false,true,standard,,,,,USD,0.7,0.35,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-0528
 novita,Novita AI,deepseek-deepseek-r1-distill-llama-70b,DeepSeek R1 Distill Llama 70B,Llama,general,8192,8192,text,false,false,false,standard,,,,,USD,0.8,,0.8,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-distill-llama-70b
 novita,Novita AI,deepseek-deepseek-r1-distill-qwen-14b,DeepSeek R1 Distill Qwen 14B,Qwen,general,32768,16384,text,false,false,false,standard,,,,,USD,0.15,,0.15,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-distill-qwen-14b
@@ -1241,8 +1241,8 @@ novita,Novita AI,zai-org-glm-4-5-air,GLM 4.5 Air,GLM,general,131072,98304,text,t
 novita,Novita AI,zai-org-glm-4-5v,GLM 4.5V,GLM,general,65536,16384,text,true,false,true,standard,,,,,USD,0.6,0.11,1.8,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.5v
 novita,Novita AI,zai-org-glm-4-6,GLM 4.6,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.55,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.6
 novita,Novita AI,zai-org-glm-4-6v,GLM 4.6V,GLM,general,131072,32768,text,true,false,true,standard,,,,,USD,0.3,0.055,0.9,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.6v
-novita,Novita AI,zai-org-glm-4-7-h,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-h
 novita,Novita AI,zai-org-glm-4-7,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7
+novita,Novita AI,zai-org-glm-4-7-h,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-h
 novita,Novita AI,zai-org-glm-4-7-flash,GLM 4.7 Flash,GLM,general,200000,128000,text,true,false,true,standard,,,,,USD,0.07,0.01,0.4,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-flash
 novita,Novita AI,zai-org-glm-5,GLM 5,GLM,general,202800,131072,text,true,false,true,standard,,,,,USD,1,0.2,3.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-5
 novita,Novita AI,zai-org-glm-5-1,GLM 5.1,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,1.38,0.26,4.4,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-5.1
@@ -1266,8 +1266,8 @@ novita,Novita AI,moonshotai-kimi-k2-0905,Kimi K2 Instruct 0905,Kimi,general,2621
 novita,Novita AI,moonshotai-kimi-k2-thinking,Kimi K2 Thinking,Kimi,general,262144,98304,text,true,false,true,standard,,,,,USD,0.6,0.15,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k2-thinking
 novita,Novita AI,moonshotai-kimi-k3,Kimi K3,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3
 novita,Novita AI,inclusionai-ling-2-6-1t,Ling 2.6 1T,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.3,0.06,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-2.6-1t
-novita,Novita AI,inclusionai-ling-2-6-flash,Ling 2.6 Flash,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.1,0.02,0.3,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-2.6-flash
 novita,Novita AI,elephant,Ling 2.6 Flash,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.1,0.02,0.3,,,,,,,,,,,,,,,https://novita.ai/models/llm/elephant
+novita,Novita AI,inclusionai-ling-2-6-flash,Ling 2.6 Flash,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.1,0.02,0.3,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-2.6-flash
 novita,Novita AI,inclusionai-ling-3-0-flash,Ling 3.0 Flash,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-3.0-flash
 novita,Novita AI,inclusionai-ling-3-0-flash-fast,Ling 3.0 Flash Fast,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-3.0-flash-fast
 novita,Novita AI,inclusionai-ling-3-0-flash-fin,Ling 3.0 Flash Fin,,general,262144,32768,text,true,false,true,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-3.0-flash-fin
@@ -3673,12 +3673,12 @@ volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,
 volcano-ark,Volcano Ark,glm-5-2,glm-5.2,GLM,general,,,text,true,false,true,standard,,,,,CNY,8,2,28,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,glm-5-3-flash,glm-5.3-flash,GLM,general,,,text,true,false,true,standard,,,,,CNY,0.8,0.23,2.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 xai,xAI,grok-4.20-0309-non-reasoning,grok-4.20-0309-non-reasoning,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
-xai,xAI,grok-4.20-0309-reasoning,grok-4.20-0309-reasoning,Grok,general,1000000,,image|text,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
-xai,xAI,grok-4.20-multi-agent-0309,grok-4.20-multi-agent-0309,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.20-0309-reasoning,grok-4.20-0309-reasoning,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.20-multi-agent-0309,grok-4.20-multi-agent-0309,Grok,general,1000000,,image|text,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-4.3,grok-4.3,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
-xai,xAI,grok-4.5,grok-4.5,Grok,general,500000,,text|image,true,false,true,standard,,,,,USD,2,0.3,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
-xai,xAI,grok-4.6,grok-4.6,Grok,general,500000,,text|image,true,false,true,standard,,,,,USD,2,0.5,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
-xai,xAI,grok-4.7,grok-4.7,Grok,general,500000,,text|image,true,false,true,standard,,,,,USD,2,0.5,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.5,grok-4.5,Grok,general,500000,,image|text,true,false,true,standard,,,,,USD,2,0.3,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.6,grok-4.6,Grok,general,500000,,image|text,true,false,true,standard,,,,,USD,2,0.5,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.7,grok-4.7,Grok,general,500000,,image|text,true,false,true,standard,,,,,USD,2,0.5,6,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-build-0.1,grok-build-0.1,Grok,general,256000,,text|image,true,true,true,standard,,,,,USD,1,0.2,2,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-imagine-image,grok-imagine-image,Grok,image,,,text|image,false,false,false,standard,,,,,USD,,,,,,0.02,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-imagine-image-2.0,grok-imagine-image-2.0,Grok,image,,,text|image,false,false,false,standard,,,,,USD,,,,,,0.06,,,,,,,,,,,,https://docs.x.ai/developers/models
