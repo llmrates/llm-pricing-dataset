@@ -1,7 +1,7 @@
 slug,name,name_local,website,pricing_url,provider_type,model_count,description,provider_types
 ai21,AI21 Labs,,https://www.ai21.com,https://www.ai21.com/pricing/,direct,2,"AI21 Labs builds the Jamba family of hybrid SSM-Transformer models with long context windows, offered via its own API with per-token pricing.",direct
 anthropic,Anthropic,,https://anthropic.com,https://docs.anthropic.com/en/docs/about-claude/pricing,direct,32,,direct|coding_tool
-aws-bedrock,AWS Bedrock,,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/,cloud,151,,cloud
+aws-bedrock,AWS Bedrock,,https://aws.amazon.com/bedrock/,https://aws.amazon.com/bedrock/pricing/,cloud,153,,cloud
 azure-ai,Azure AI,,https://azure.microsoft.com/en-us/products/ai-services/,https://azure.microsoft.com/en-us/pricing/details/azure-openai/,cloud,106,,cloud
 cloudflare,Cloudflare Workers AI,,https://www.cloudflare.com/developer-platform/products/workers-ai/,https://developers.cloudflare.com/workers-ai/platform/pricing/,aggregator,46,"Cloudflare Workers AI runs open models (Llama, Qwen, Mistral, Gemma, GPT-OSS, plus embeddings and speech) on Cloudflare's global edge network, billed per token in USD (also denominated in Neurons).",aggregator
 codebuddy,CodeBuddy,腾讯云代码助手,https://www.codebuddy.cn,https://www.codebuddy.cn/docs/workbuddy/Pricing,coding_tool,0,"Tencent's coding assistant. CodeBuddy and the WorkBuddy desktop agent bill against one shared credit balance, so a subscription covers both.",coding_tool
