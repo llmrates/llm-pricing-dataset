@@ -13,7 +13,7 @@ deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.co
 fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,40,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts.",aggregator
 github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://github.com/features/copilot/plans,coding_tool,0,"GitHub's coding assistant, sold only as a subscription. Billing moved from premium requests to AI credits, published at 1 credit = $0.01 USD.",coding_tool
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,90,,direct|coding_tool
-vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,113,,cloud
+vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,114,,cloud
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,16,,aggregator
 minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,33,,direct|coding_tool
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,34,,direct
@@ -22,7 +22,7 @@ novita,Novita AI,,https://novita.ai,https://novita.ai/pricing,aggregator,184,"No
 ollama,Ollama,,https://ollama.com,https://ollama.com/pricing,aggregator,28,"Ollama runs open models locally and, through Ollama Cloud, hosts them behind an API (native, OpenAI- and Anthropic-compatible) billed per token in USD, with off-peak rates on some models. Its Pro, Max and Team subscriptions are a monthly fee bundling dollars of usage credits spent at the same per-token rates.",aggregator|coding_tool
 openai,OpenAI,,https://openai.com,https://developers.openai.com/api/docs/pricing,direct,87,,direct|coding_tool
 opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggregator,124,"OpenCode sells access to the same models two ways. Zen is a pay-per-token API gateway for the OpenCode coding agent, carrying GPT, Claude, Gemini and Grok alongside open models (Qwen, DeepSeek, MiniMax, GLM, Kimi) — several of them free for a limited time. OpenCode Go is a $10/month subscription over the open models only, with its allowance published in dollars of usage.",aggregator|coding_tool
-openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,664,,aggregator
+openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,665,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
 qwen,Qwen,千问,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,414,,direct|coding_tool
@@ -31,6 +31,6 @@ sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,64,,aggregator
 stepfun,StepFun,阶跃星辰,https://www.stepfun.com,https://platform.stepfun.com/docs/zh/guides/pricing/details,direct,10,"StepFun (阶跃星辰) is a Chinese AI lab building the Step series of multimodal foundation models (text, vision and audio), offered via its own API with per-token pricing and prompt caching.",direct
 trae,TRAE,,https://www.trae.cn,https://www.trae.cn/pricing,coding_tool,0,ByteDance's AI IDE. Paid tiers currently sell queue priority (速通) rather than an allowance; a credit-based plan was announced for 2026-07-30.,coding_tool
-volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,44,,aggregator
+volcano-ark,Volcano Ark,火山方舟,https://www.volcengine.com/product/ark,https://www.volcengine.com/docs/82379/1544106,aggregator,45,,aggregator
 xai,xAI,,https://x.ai,https://docs.x.ai/developers/models,direct,24,,direct
 zhipu,Zhipu,智谱,https://open.bigmodel.cn,https://bigmodel.cn/pricing,direct,63,,direct|coding_tool
