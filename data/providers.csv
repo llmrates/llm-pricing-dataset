@@ -8,12 +8,12 @@ codebuddy,CodeBuddy,腾讯云代码助手,https://www.codebuddy.cn,https://www.c
 cohere,Cohere,,https://cohere.com,https://cohere.com/pricing,direct,12,,direct
 coralbricks,CoralBricks,,https://www.coralbricks.ai,https://www.coralbricks.ai/docs,aggregator,7,"CoralBricks serves open models (GLM, DeepSeek) quantized to NVFP4 / MXFP4 on its own GPUs behind an OpenAI-compatible API (Chat Completions, Responses and background mode), billed per token in USD from prepaid credits. Cached input is billed at $0 on every model; novel input under prompt-cache retention bills at a separate cache-write rate.",aggregator
 cursor,Cursor,,https://cursor.com,https://cursor.com/docs/models-and-pricing,aggregator,39,,aggregator|coding_tool
-deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,190,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs.",aggregator
+deepinfra,DeepInfra,,https://deepinfra.com,https://deepinfra.com/pricing,aggregator,191,"DeepInfra is a serverless inference marketplace running open models (Llama, Qwen, DeepSeek, GLM, Kimi and more) on managed GPUs, billed per token with no idle cost — among the cheapest hosted open-model APIs.",aggregator
 deepseek,DeepSeek,深度求索,https://deepseek.com,https://api-docs.deepseek.com/quick_start/pricing,direct,4,,direct
 fireworks,Fireworks AI,,https://fireworks.ai,https://fireworks.ai/pricing,aggregator,42,"Fireworks AI is a high-performance serverless inference platform for open and open-weight frontier models (DeepSeek, GLM, Qwen, Kimi, MiniMax, GPT-OSS), offering Standard and Priority throughput tiers with cached-input discounts.",aggregator
 github-copilot,GitHub Copilot,,https://github.com/features/copilot,https://github.com/features/copilot/plans,coding_tool,0,"GitHub's coding assistant, sold only as a subscription. Billing moved from premium requests to AI credits, published at 1 credit = $0.01 USD.",coding_tool
 google-gemini,Google,,https://ai.google.dev,https://ai.google.dev/gemini-api/docs/pricing,direct,93,,direct|coding_tool
-vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,116,,cloud
+vertex-ai,Google Vertex AI,,https://cloud.google.com/vertex-ai,https://cloud.google.com/vertex-ai/generative-ai/pricing,cloud,117,,cloud
 groq,Groq,,https://groq.com,https://groq.com/pricing/,aggregator,16,,aggregator
 minimax,MiniMax,,https://platform.minimaxi.com,https://platform.minimaxi.com/docs/pricing/overview,direct,33,,direct|coding_tool
 mistral,Mistral,,https://mistral.ai,https://docs.mistral.ai/models/overview,direct,34,,direct
@@ -25,7 +25,7 @@ opencode-zen,OpenCode,,https://opencode.ai,https://opencode.ai/docs/zen/,aggrega
 openrouter,OpenRouter,,https://openrouter.ai,https://openrouter.ai/models,aggregator,685,,aggregator
 perplexity,Perplexity,,https://perplexity.ai,https://docs.perplexity.ai/docs/getting-started/pricing,direct,4,,direct
 qoder-cn,Qoder,,https://qoder.com,https://help.aliyun.com/zh/lingma/product-overview/billing-description,coding_tool,0,"Alibaba Cloud's coding assistant, renamed from 通义灵码 (Lingma) on 2026-05-20 and repriced onto a Credits quota the same day.",coding_tool
-qwen,Qwen,千问,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,419,,direct|coding_tool
+qwen,Qwen,千问,https://www.alibabacloud.com/en/solutions/generative-ai/qwen,https://help.aliyun.com/zh/model-studio/model-pricing,direct,420,,direct|coding_tool
 runway,Runway,,https://runwayml.com,https://docs.dev.runwayml.com/guides/pricing/,direct,33,"Runway builds frontier video-generation models (Gen-4, Aleph) plus hosted partner models (Veo, Seedance), billed per second of generated video via its API.",direct
 sambanova,SambaNova Cloud,,https://sambanova.ai,https://cloud.sambanova.ai/plans/pricing,aggregator,10,"SambaNova Cloud runs open models (DeepSeek, Llama, Qwen) on custom RDU hardware for record-fast token throughput, billed per token.",aggregator
 siliconflow,SiliconFlow,硅基流动,https://siliconflow.cn,https://siliconflow.cn/pricing,aggregator,66,,aggregator
