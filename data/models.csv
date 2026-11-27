@@ -635,6 +635,7 @@ deepinfra,DeepInfra,inclusionai-ling-3-0-flash,inclusionAI/Ling-3.0-flash,,gener
 deepinfra,DeepInfra,inclusionai-ling-3-0-flash-fin,inclusionAI/Ling-3.0-flash-Fin,,general,262144,,text,true,false,true,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://deepinfra.com/inclusionAI/Ling-3.0-flash-Fin
 deepinfra,DeepInfra,inclusionai-ling-3-0-flash-vl,inclusionAI/Ling-3.0-flash-VL,,general,131072,,text|image,true,false,true,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://deepinfra.com/inclusionAI/Ling-3.0-flash-VL
 deepinfra,DeepInfra,inclusionai-ling-3-1-flash,inclusionAI/Ling-3.1-flash,,general,262144,,text,true,false,true,standard,,,,,USD,0.3,0.06,0.9,,,,,,,,,,,,,,,https://deepinfra.com/inclusionAI/Ling-3.1-flash
+deepinfra,DeepInfra,inclusionai-lingsante-3-1-air-vl,inclusionAI/LingSante-3.1-air-VL,,general,131072,,text|image,true,false,true,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://deepinfra.com/inclusionAI/LingSante-3.1-air-VL
 deepinfra,DeepInfra,intfloat-e5-base-v2,intfloat/e5-base-v2,,general,512,,embedding,false,false,false,standard,,,,,USD,0.005,,,,,,,,,,,,,,,,,https://deepinfra.com/intfloat/e5-base-v2
 deepinfra,DeepInfra,intfloat-e5-large-v2,intfloat/e5-large-v2,,general,512,,embedding,false,false,false,standard,,,,,USD,0.01,,,,,,,,,,,,,,,,,https://deepinfra.com/intfloat/e5-large-v2
 deepinfra,DeepInfra,intfloat-multilingual-e5-large,intfloat/multilingual-e5-large,,general,512,,embedding,false,false,false,standard,,,,,USD,0.01,,,,,,,,,,,,,,,,,https://deepinfra.com/intfloat/multilingual-e5-large
@@ -759,12 +760,12 @@ deepinfra,DeepInfra,zai-org-glm-5-1,zai-org/GLM-5.1,GLM,general,202752,,text,tru
 deepinfra,DeepInfra,zai-org-glm-5-2,zai-org/GLM-5.2,GLM,general,1048576,,text,true,false,true,standard,,,,,USD,0.75,0.14,2.4,,,,,,,,,,,,,,,https://deepinfra.com/zai-org/GLM-5.2
 deepinfra,DeepInfra,zai-org-glm-5-3,zai-org/GLM-5.3,GLM,general,1048576,,text,true,false,true,standard,,,,,USD,0.9,0.2,4,,,,,,,,,,,,,,,https://deepinfra.com/zai-org/GLM-5.3
 deepinfra,DeepInfra,zai-org-glm-5-3-flash,zai-org/GLM-5.3-Flash,GLM,general,1048576,,text,true,false,true,standard,,,,,USD,0.15,0.03,0.5,,,,,,,,,,,,,,,https://deepinfra.com/zai-org/GLM-5.3-Flash
-deepseek,DeepSeek,deepseek-flash,deepseek-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,USD,0.15,0.003,0.6,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-flash,deepseek-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
+deepseek,DeepSeek,deepseek-flash,deepseek-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,USD,0.15,0.003,0.6,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-flash,deepseek-flash,DeepSeek,general,1000000,384000,text,true,false,true,standard,,,,,USD,0.3,0.006,1.2,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-flash,deepseek-flash,DeepSeek,general,1000000,384000,text,true,false,true,standard,,,,,CNY,2,0.04,8,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
-deepseek,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,CNY,1.5,0.05,4.5,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,USD,0.22,0.007,0.66,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
+deepseek,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,CNY,1.5,0.05,4.5,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,general,1000000,384000,text,true,false,true,standard,,,,,CNY,3,0.1,9,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,general,1000000,384000,text,true,false,true,standard,,,,,USD,0.44,0.014,1.32,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
 deepseek,DeepSeek,deepseek-v4-flash-vision-exp,deepseek-v4-flash-vision-exp,DeepSeek,general,1000000,384000,text,true,false,true,off_peak,,,off_peak,,USD,0.22,0.007,0.66,,,,,,,,,,,,,,,https://api-docs.deepseek.com/quick_start/pricing
@@ -1035,8 +1036,8 @@ vertex-ai,Google Vertex AI,claude-sonnet-4-6,Claude Sonnet 4.6,Claude,general,,,
 vertex-ai,Google Vertex AI,claude-sonnet-4-6,Claude Sonnet 4.6,Claude,general,,,text,true,true,true,standard,200000,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-4-deprecated,Claude Sonnet 4 (Deprecated),Claude,general,,,text,true,true,true,batch,,200000,,,USD,1.5,,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-4-deprecated,Claude Sonnet 4 (Deprecated),Claude,general,,,text,true,true,true,standard,,200000,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,claude-sonnet-5,Claude Sonnet 5,Claude,general,,,text,true,true,true,batch,,200000,,,USD,1,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-5,Claude Sonnet 5,Claude,general,,,text,true,true,true,batch,200000,,,,USD,1,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,claude-sonnet-5,Claude Sonnet 5,Claude,general,,,text,true,true,true,batch,,200000,,,USD,1,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-5,Claude Sonnet 5,Claude,general,,,text,true,true,true,standard,,200000,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-5,Claude Sonnet 5,Claude,general,,,text,true,true,true,standard,200000,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,claude-sonnet-5-promotional-price-through-august-31-2026,"Claude Sonnet 5 (Promotional Price through August 31, 2026)",Claude,general,,,text,true,true,true,batch,,200000,,,USD,1,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
@@ -1065,20 +1066,20 @@ vertex-ai,Google Vertex AI,gemini-2-0-flash-image-generation,Gemini 2.0 Flash Im
 vertex-ai,Google Vertex AI,gemini-2-0-flash-lite,Gemini 2.0 Flash Lite,Gemini,general,,,text,true,true,false,batch,,,,,USD,0.0375,,0.15,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-0-flash-lite,Gemini 2.0 Flash Lite,Gemini,general,,,text,true,true,false,standard,,,,,USD,0.075,,0.3,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-0-flash-live-api,Gemini 2.0 Flash Live API,Gemini,general,,,text,true,false,false,standard,,,,,USD,0.5,,2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-2-5-flash,Gemini 2.5 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.15,,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash,Gemini 2.5 Flash,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.15,,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-2-5-flash,Gemini 2.5 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.15,,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash,Gemini 2.5 Flash,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash,Gemini 2.5 Flash,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-image,Gemini 2.5 Flash Image,Gemini,general,,,text,true,true,false,batch,,200000,,,USD,0.15,,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-image,Gemini 2.5 Flash Image,Gemini,general,,,text,true,true,false,standard,,200000,,,USD,0.3,,2.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-2-5-flash-lite,Gemini 2.5 Flash Lite,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.05,,0.2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-lite,Gemini 2.5 Flash Lite,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.05,,0.2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-2-5-flash-lite,Gemini 2.5 Flash Lite,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.05,,0.2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-lite,Gemini 2.5 Flash Lite,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.1,0.01,0.4,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-lite,Gemini 2.5 Flash Lite,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.1,0.01,0.4,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-live-api,Gemini 2.5 Flash Live API,Gemini,general,,,text,true,false,false,standard,,200000,,,USD,0.5,,2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-flash-live-api,Gemini 2.5 Flash Live API,Gemini,general,,,text,true,false,false,standard,200000,,,,USD,0.5,,2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-2-5-pro,Gemini 2.5 Pro,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.625,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-pro,Gemini 2.5 Pro,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,1.25,,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-2-5-pro,Gemini 2.5 Pro,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.625,,5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-pro,Gemini 2.5 Pro,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,2.5,0.25,15,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-pro,Gemini 2.5 Pro,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,1.25,0.125,10,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-2-5-pro-computer-use-preview,Gemini 2.5 Pro Computer Use-Preview,Gemini,general,,,text,true,false,false,standard,,200000,,,USD,1.25,,10,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
@@ -1089,8 +1090,8 @@ vertex-ai,Google Vertex AI,gemini-3-1-flash-image-nano-banana-2,Gemini 3.1 Flash
 vertex-ai,Google Vertex AI,gemini-3-1-flash-image-nano-banana-2,Gemini 3.1 Flash Image (Nano Banana 2),Gemini,general,,,text,true,true,true,batch,,,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-image-nano-banana-2,Gemini 3.1 Flash Image (Nano Banana 2),Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-image-nano-banana-2,Gemini 3.1 Flash Image (Nano Banana 2),Gemini,general,,,text,true,true,true,standard,,,,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-lite,Gemini 3.1 Flash-Lite,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash-Lite Image (Nano Banana 2 Lite),Gemini,general,,,text,true,true,true,batch,,,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
@@ -1099,25 +1100,25 @@ vertex-ai,Google Vertex AI,gemini-3-1-flash-lite-image-nano-banana-2-lite,Gemini
 vertex-ai,Google Vertex AI,gemini-3-1-flash-lite-image-nano-banana-2-lite,Gemini 3.1 Flash-Lite Image (Nano Banana 2 Lite),Gemini,general,,,text,true,true,true,standard,,,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-live-api,Gemini 3.1 Flash Live API,Gemini,general,,,text,true,false,false,standard,,200000,,,USD,1,,2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-flash-live-api,Gemini 3.1 Flash Live API,Gemini,general,,,text,true,false,false,standard,200000,,,,USD,1,,2,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-1-pro,Gemini 3.1 Pro,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,1,,6,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-pro,Gemini 3.1 Pro,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,2,,9,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-1-pro,Gemini 3.1 Pro,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,1,,6,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-pro,Gemini 3.1 Pro,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-1-pro,Gemini 3.1 Pro,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,4,0.4,18,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-5-flash,Gemini 3.5 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash,Gemini 3.5 Flash,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-5-flash,Gemini 3.5 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash,Gemini 3.5 Flash,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,1.5,0.15,9,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash,Gemini 3.5 Flash,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,1.5,0.15,9,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.15,0.015,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.15,0.015,1.25,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-5-flash-lite,Gemini 3.5 Flash-Lite,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,standard,,,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash,Gemini 3.6 Flash,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-6-flash-starting-january-1-2027,"Gemini 3.6 Flash starting January 1, 2027",Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash-starting-january-1-2027,"Gemini 3.6 Flash starting January 1, 2027",Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-6-flash-starting-january-1-2027,"Gemini 3.6 Flash starting January 1, 2027",Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash-starting-january-1-2027,"Gemini 3.6 Flash starting January 1, 2027",Gemini,general,,,text,true,true,true,standard,,200000,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash-starting-january-1-2027,"Gemini 3.6 Flash starting January 1, 2027",Gemini,general,,,text,true,true,true,standard,200000,,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-6-flash-through-december-31-2026,"Gemini 3.6 Flash * through December 31, 2026",Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
@@ -1138,16 +1139,16 @@ vertex-ai,Google Vertex AI,gemini-3-7-flash-through-december-31-2026,"Gemini 3.7
 vertex-ai,Google Vertex AI,gemini-3-7-flash-through-december-31-2026,"Gemini 3.7 Flash * through December 31, 2026",Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-7-flash-through-december-31-2026,"Gemini 3.7 Flash * through December 31, 2026",Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-7-flash-through-december-31-2026,"Gemini 3.7 Flash * through December 31, 2026",Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-8-flash,Gemini 3.8 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash,Gemini 3.8 Flash,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-8-flash,Gemini 3.8 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash,Gemini 3.8 Flash,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash,Gemini 3.8 Flash,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash-cyber,Gemini 3.8 Flash Cyber,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash-cyber,Gemini 3.8 Flash Cyber,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash-cyber,Gemini 3.8 Flash Cyber,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-8-flash-cyber,Gemini 3.8 Flash Cyber,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
-vertex-ai,Google Vertex AI,gemini-3-flash,Gemini 3 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-flash,Gemini 3 Flash,Gemini,general,,,text,true,true,true,batch,200000,,,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
+vertex-ai,Google Vertex AI,gemini-3-flash,Gemini 3 Flash,Gemini,general,,,text,true,true,true,batch,,200000,,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-flash,Gemini 3 Flash,Gemini,general,,,text,true,true,true,standard,,200000,,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-flash,Gemini 3 Flash,Gemini,general,,,text,true,true,true,standard,200000,,,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
 vertex-ai,Google Vertex AI,gemini-3-pro-image,Gemini 3 Pro Image,Gemini,general,,,text,true,true,false,batch,,200000,,,USD,1,,6,,,,,,,,,,,,,,,https://cloud.google.com/vertex-ai/generative-ai/pricing
@@ -1387,16 +1388,16 @@ novita,Novita AI,deepseek-deepseek-v4-pro-0813-p,deepseek/deepseek-v4-pro-0813-p
 novita,Novita AI,deepseek-deepseek-ocr,DeepSeek OCR,DeepSeek,general,8192,8192,text,false,false,false,standard,,,,,USD,0.03,,0.03,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-ocr
 novita,Novita AI,deepseek-deepseek-ocr-2,DeepSeek OCR 2,DeepSeek,general,8192,8192,text,false,false,false,standard,,,,,USD,0.03,,0.03,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-ocr-2
 novita,Novita AI,deepseek-deepseek-prover-v2-671b,Deepseek Prover V2 671B,DeepSeek,general,160000,160000,text,false,false,false,standard,,,,,USD,0.7,,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-prover-v2-671b
-novita,Novita AI,deepseek-deepseek-r1-community,DeepSeek R1,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-r1,DeepSeek R1,DeepSeek,general,64000,16000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1
+novita,Novita AI,deepseek-deepseek-r1-community,DeepSeek R1,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,4,,4,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-r1-0528,DeepSeek R1 0528,DeepSeek,general,163840,32768,text,true,false,true,standard,,,,,USD,0.7,0.35,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-0528
 novita,Novita AI,deepseek-deepseek-r1-distill-llama-70b,DeepSeek R1 Distill Llama 70B,Llama,general,8192,8192,text,false,false,false,standard,,,,,USD,0.8,,0.8,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-distill-llama-70b
 novita,Novita AI,deepseek-deepseek-r1-distill-qwen-14b,DeepSeek R1 Distill Qwen 14B,Qwen,general,32768,16384,text,false,false,false,standard,,,,,USD,0.15,,0.15,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-distill-qwen-14b
 novita,Novita AI,deepseek-deepseek-r1-distill-qwen-32b,DeepSeek R1 Distill Qwen 32B,Qwen,general,64000,32000,text,false,false,false,standard,,,,,USD,0.3,,0.3,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-distill-qwen-32b
 novita,Novita AI,deepseek-deepseek-r1-0528-qwen3-8b,DeepSeek R1 Distill Qwen3 8B 0528,Qwen,general,128000,32000,text,false,false,false,standard,,,,,USD,0.06,,0.09,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-0528-qwen3-8b
 novita,Novita AI,deepseek-deepseek-r1-turbo,DeepSeek R1 Turbo,DeepSeek,general,64000,16000,text,true,false,false,standard,,,,,USD,0.7,,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-r1-turbo
-novita,Novita AI,deepseek-deepseek-v3-community,DeepSeek V3,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,0.89,,0.89,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-v3,DeepSeek V3,DeepSeek,general,64000,16000,text,true,false,false,standard,,,,,USD,0.89,,0.89,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek_v3
+novita,Novita AI,deepseek-deepseek-v3-community,DeepSeek V3,DeepSeek,general,64000,8000,text,true,false,false,standard,,,,,USD,0.89,,0.89,,,,,,,,,,,,,,,https://novita.ai/models/llm/community
 novita,Novita AI,deepseek-deepseek-v3-0324,DeepSeek V3 0324,DeepSeek,general,163840,65536,text,true,false,true,standard,,,,,USD,0.27,0.135,1.12,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-v3-0324
 novita,Novita AI,deepseek-deepseek-v3-1,DeepSeek V3.1,DeepSeek,general,131072,32768,text,true,false,true,standard,,,,,USD,0.27,0.135,1,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-v3.1
 novita,Novita AI,deepseek-deepseek-v3-1-terminus,DeepSeek V3.1 Terminus,DeepSeek,general,131072,32768,text,true,false,true,standard,,,,,USD,0.27,0.135,1,,,,,,,,,,,,,,,https://novita.ai/models/llm/deepseek-v3.1-terminus
@@ -1432,8 +1433,8 @@ novita,Novita AI,zai-org-glm-4-5-air,GLM 4.5 Air,GLM,general,131072,98304,text,t
 novita,Novita AI,zai-org-glm-4-5v,GLM 4.5V,GLM,general,65536,16384,text,true,false,true,standard,,,,,USD,0.6,0.11,1.8,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.5v
 novita,Novita AI,zai-org-glm-4-6,GLM 4.6,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.55,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.6
 novita,Novita AI,zai-org-glm-4-6v,GLM 4.6V,GLM,general,131072,32768,text,true,false,true,standard,,,,,USD,0.3,0.055,0.9,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.6v
-novita,Novita AI,zai-org-glm-4-7-h,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-h
 novita,Novita AI,zai-org-glm-4-7,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7
+novita,Novita AI,zai-org-glm-4-7-h,GLM 4.7,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,0.6,0.11,2.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-h
 novita,Novita AI,zai-org-glm-4-7-flash,GLM 4.7 Flash,GLM,general,200000,128000,text,true,false,true,standard,,,,,USD,0.07,0.01,0.4,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-4.7-flash
 novita,Novita AI,zai-org-glm-5,GLM 5,GLM,general,202800,131072,text,true,false,true,standard,,,,,USD,1,0.2,3.2,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-5
 novita,Novita AI,zai-org-glm-5-1,GLM 5.1,GLM,general,204800,131072,text,true,false,true,standard,,,,,USD,1.38,0.26,4.4,,,,,,,,,,,,,,,https://novita.ai/models/llm/glm-5.1
@@ -1458,8 +1459,8 @@ novita,Novita AI,moonshotai-kimi-k2-7-code,Kimi K2.7 Code,Kimi,general,262144,26
 novita,Novita AI,moonshotai-kimi-k2-instruct,Kimi K2 Instruct,Kimi,general,131072,98304,text,true,false,false,standard,,,,,USD,0.57,,2.3,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k2-instruct
 novita,Novita AI,moonshotai-kimi-k2-0905,Kimi K2 Instruct 0905,Kimi,general,262144,98304,text,true,false,false,standard,,,,,USD,0.6,,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k2-0905
 novita,Novita AI,moonshotai-kimi-k2-thinking,Kimi K2 Thinking,Kimi,general,262144,98304,text,true,false,true,standard,,,,,USD,0.6,0.15,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k2-thinking
-novita,Novita AI,moonshotai-kimi-k3,Kimi K3,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3
 novita,Novita AI,moonshotai-kimi-k3-p,Kimi K3,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3-p
+novita,Novita AI,moonshotai-kimi-k3,Kimi K3,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3
 novita,Novita AI,moonshotai-kimi-k3-1-pro,Kimi K3.1 Pro,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3.1-pro
 novita,Novita AI,moonshotai-kimi-k3-1-pro-highspeed,Kimi K3.1 Pro Highspeed,Kimi,general,1048576,1048576,text,true,false,true,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://novita.ai/models/llm/kimi-k3.1-pro-highspeed
 novita,Novita AI,inclusionai-ling-2-6-1t,Ling 2.6 1T,,general,262144,32768,text,true,false,true,standard,,,,,USD,0.3,0.06,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/ling-2.6-1t
@@ -1552,10 +1553,10 @@ novita,Novita AI,qwen-qwen3-omni-30b-a3b-instruct,Qwen3 Omni 30B A3B Instruct,Qw
 novita,Novita AI,qwen-qwen3-omni-30b-a3b-thinking,Qwen3 Omni 30B A3B Thinking,Qwen,general,65536,16384,text,true,false,false,standard,,,,,USD,0.25,,0.97,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-omni-30b-a3b-thinking
 novita,Novita AI,qwen-qwen3-vl-235b-a22b-instruct,Qwen3 VL 235B A22B Instruct,Qwen,general,131072,32768,image|text,true,false,false,standard,,,,,USD,0.3,,1.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-235b-a22b-instruct
 novita,Novita AI,qwen-qwen3-vl-235b-a22b-thinking,Qwen3 VL 235B A22B Thinking,Qwen,general,131072,32768,text|image,true,false,false,standard,,,,,USD,0.98,,3.95,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-235b-a22b-thinking
-novita,Novita AI,qwen-qwen3-vl-30b-a3b-instruct,Qwen3 VL 30B A3B Instruct,Qwen,general,131072,32768,text|image,true,false,false,standard,,,,,USD,0.2,,0.7,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-30b-a3b-instruct
+novita,Novita AI,qwen-qwen3-vl-30b-a3b-instruct,Qwen3 VL 30B A3B Instruct,Qwen,general,131072,32768,image|text,true,false,false,standard,,,,,USD,0.2,,0.7,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-30b-a3b-instruct
 novita,Novita AI,qwen-qwen3-vl-plus,Qwen3 VL Plus,Qwen,general,262000,32000,text|image,true,false,true,standard,,,,,USD,1,1,1,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-plus
-novita,Novita AI,qwen-qwen4-max,Qwen4 Max,Qwen,general,1000000,262000,text,true,false,true,standard,,,,,USD,1.413,0.071,4.24,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen4-max
-novita,Novita AI,qwen-qwen-mt-plus,Qwen MT Plus,Qwen,general,16384,8192,text,false,false,false,standard,,,,,USD,0.25,,0.75,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen-mt-plus
+novita,Novita AI,qwen-qwen4-max,Qwen4 Max,Qwen,general,1000000,262144,text,true,false,true,standard,,,,,USD,1.413,0.071,4.24,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen4-max
+novita,Novita AI,qwen-qwen-mt-plus,Qwen MT Plus,Qwen,general,16384,8192,text,false,false,false,standard,,,,,USD,0.259,,0.775,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen-mt-plus
 novita,Novita AI,qwen-qwen3-vl-30b-a3b-thinking,qwen/qwen3-vl-30b-a3b-thinking,Qwen,general,131072,32768,text|image,true,false,false,standard,,,,,USD,0.2,,1,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-30b-a3b-thinking
 novita,Novita AI,qwen-qwen3-vl-8b-instruct,qwen/qwen3-vl-8b-instruct,Qwen,general,131072,32768,text|image,true,false,false,standard,,,,,USD,0.08,,0.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/qwen3-vl-8b-instruct
 novita,Novita AI,inclusionai-ring-2-6-1t,Ring 2.6 1T,,general,262144,65536,text,true,false,true,standard,,,,,USD,0.3,0.06,2.5,,,,,,,,,,,,,,,https://novita.ai/models/llm/ring-2.6-1t
@@ -1642,7 +1643,7 @@ openai,OpenAI,gpt-4o-mini-transcribe,gpt-4o-mini-transcribe,GPT,general,,,audio|
 openai,OpenAI,gpt-4o-mini-tts,gpt-4o-mini-tts,Audio,general,,,speech,true,false,false,standard,,,audio,,USD,,,12,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-4o-mini-tts,gpt-4o-mini-tts,Audio,general,,,speech,true,false,false,standard,,,text,,USD,0.6,,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-4o-transcribe,gpt-4o-transcribe,GPT,general,,,audio|transcription,true,false,false,standard,,,,,USD,2.5,,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-4o-transcribe-diarize,gpt-4o-transcribe-diarize,GPT,general,,,audio|transcription,true,false,false,standard,,,,,USD,2.5,,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-4o-transcribe-diarize,gpt-4o-transcribe-diarize,GPT,general,,,transcription|audio,true,false,false,standard,,,,,USD,2.5,,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-4-turbo-2024-04-09,gpt-4-turbo-2024-04-09,GPT,general,,,text,true,false,false,batch,,,,,USD,5,,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-4-turbo-2024-04-09,gpt-4-turbo-2024-04-09,GPT,general,,,text,true,false,false,standard,,,,,USD,10,,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5,gpt-5,GPT,general,,,text,true,false,true,batch,,,,,USD,0.625,0.0625,5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1663,8 +1664,8 @@ openai,OpenAI,gpt-5.3-codex,gpt-5.3-codex,GPT,general,,,text,true,false,true,pri
 openai,OpenAI,gpt-5.3-codex,gpt-5.3-codex,GPT,general,,,text,true,false,true,standard,,,,,USD,1.75,0.175,14,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,batch,,,,,USD,1.25,0.13,7.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,2.5,0.25,11.25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,2.5,0.25,11.25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,flex,,,,,USD,1.25,0.13,7.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,2.5,0.25,11.25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,priority,,,,,USD,5,0.5,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,standard,,,,,USD,2.5,0.25,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4,gpt-5.4,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,5,0.5,22.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1675,16 +1676,16 @@ openai,OpenAI,gpt-5.4-mini,gpt-5.4-mini,GPT,general,,,text,true,false,true,stand
 openai,OpenAI,gpt-5.4-nano,gpt-5.4-nano,GPT,general,,,text,true,false,true,batch,,,,,USD,0.1,0.01,0.625,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-nano,gpt-5.4-nano,GPT,general,,,text,true,false,true,flex,,,,,USD,0.1,0.01,0.625,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-nano,gpt-5.4-nano,GPT,general,,,text,true,false,true,standard,,,,,USD,0.2,0.02,1.25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,batch,,,,,USD,15,,90,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,batch,,,long_context,,USD,30,,135,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,batch,,,,,USD,15,,90,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,flex,,,,,USD,15,,90,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,flex,,,long_context,,USD,30,,135,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,standard,,,,,USD,30,,180,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.4-pro,gpt-5.4-pro,GPT,general,,,text,true,true,false,standard,,,long_context,,USD,60,,270,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,batch,,,,,USD,2.5,0.25,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,5,0.5,22.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,5,0.5,22.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,flex,,,,,USD,2.5,0.25,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,5,0.5,22.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,priority,,,,,USD,12.5,1.25,75,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,standard,,,,,USD,5,0.5,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5,gpt-5.5,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,10,1,45,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1695,28 +1696,28 @@ openai,OpenAI,gpt-5.5-pro,gpt-5.5-pro,GPT,general,,,text,true,true,false,flex,,,
 openai,OpenAI,gpt-5.5-pro,gpt-5.5-pro,GPT,general,,,text,true,true,false,standard,,,,,USD,30,,180,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.5-pro,gpt-5.5-pro,GPT,general,,,text,true,true,false,standard,,,long_context,,USD,60,,270,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-cyber,gpt-5.6-cyber,GPT,general,,,text,true,false,true,standard,,,,,USD,12.5,1.25,75,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,batch,,,,,USD,0.1,0.01,0.6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,0.2,0.02,0.9,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,batch,,,,,USD,0.1,0.01,0.6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,flex,,,,,USD,0.1,0.01,0.6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,0.2,0.02,0.9,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,priority,,,,,USD,0.4,0.04,2.4,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,priority,,,long_context,,USD,0.8,0.08,3.6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,standard,,,,,USD,0.2,0.02,1.2,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-luna,gpt-5.6-luna,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,0.4,0.04,1.8,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,batch,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,4,0.4,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,batch,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,flex,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,4,0.4,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,priority,,,long_context,,USD,16,1.6,60,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,priority,,,,,USD,8,0.8,40,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,standard,,,,,USD,4,0.4,20,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-sol,gpt-5.6-sol,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,8,0.8,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,batch,,,,,USD,1,0.1,6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,2,0.2,9,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,batch,,,,,USD,1,0.1,6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,flex,,,,,USD,1,0.1,6,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,2,0.2,9,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,priority,,,,,USD,4,0.4,24,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,priority,,,long_context,,USD,8,0.8,36,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,priority,,,,,USD,4,0.4,24,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,standard,,,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5.6-terra,gpt-5.6-terra,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,4,0.4,18,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-5-mini,gpt-5-mini,GPT,general,,,text,true,false,true,batch,,,,,USD,0.125,0.0125,1,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1743,8 +1744,8 @@ openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,batc
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,1,0.05,3.75,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,flex,,,,,USD,0.5,0.025,2.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,1,0.05,3.75,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,priority,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,priority,,,long_context,,USD,4,0.2,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,priority,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.1-terra,gpt-6.1-terra,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,2,0.1,7.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.2-astra,gpt-6.2-astra,GPT,general,,,text,true,true,true,batch,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1764,8 +1765,8 @@ openai,OpenAI,gpt-6.2-sol,gpt-6.2-sol,GPT,general,,,text,true,true,true,standard
 openai,OpenAI,gpt-6.2-sol,gpt-6.2-sol,GPT,general,,,text,true,true,true,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.2-sol-healthcare,gpt-6.2-sol-healthcare,GPT,general,,,text,true,false,true,priority,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6.2-sol-healthcare,gpt-6.2-sol-healthcare,GPT,general,,,text,true,false,true,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,batch,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,10,1,37.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,batch,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,flex,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,10,1,37.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-astra,gpt-6-astra,GPT,general,,,text,true,true,true,priority,,,,,USD,20,2,100,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1780,8 +1781,8 @@ openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,batch,,,,,
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,batch,,,long_context,,USD,0.1,0.01,0.375,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,flex,,,,,USD,0.05,0.005,0.25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,flex,,,long_context,,USD,0.1,0.01,0.375,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,priority,,,,,USD,0.2,0.02,1,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,priority,,,long_context,,USD,0.4,0.04,1.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,priority,,,,,USD,0.2,0.02,1,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,standard,,,,,USD,0.1,0.01,0.5,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-luna,gpt-6-luna,GPT,general,,,text,true,true,true,standard,,,long_context,,USD,0.2,0.02,0.75,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-6-rosalind,gpt-6-rosalind,GPT,general,,,text,true,false,true,standard,,,,,USD,10,1,50,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1824,12 +1825,12 @@ openai,OpenAI,gpt-image-2.5-sunburst,gpt-image-2.5-sunburst,Media,general,,,imag
 openai,OpenAI,gpt-image-2.5-sunburst,gpt-image-2.5-sunburst,Media,general,,,image,true,true,true,batch,,,text,,USD,2.5,0.625,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.5-sunburst,gpt-image-2.5-sunburst,Media,general,,,image,true,true,true,standard,,,image,,USD,8,2,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.5-sunburst,gpt-image-2.5-sunburst,Media,general,,,image,true,true,true,standard,,,text,,USD,5,1.25,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-image-2.6-flare,gpt-image-2.6-flare,Media,general,,,image,true,true,true,batch,,,image,,USD,4,1,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-flare,gpt-image-2.6-flare,Media,general,,,image,true,true,true,batch,,,text,,USD,2.5,0.625,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-image-2.6-flare,gpt-image-2.6-flare,Media,general,,,image,true,true,true,batch,,,image,,USD,4,1,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-flare,gpt-image-2.6-flare,Media,general,,,image,true,true,true,standard,,,image,,USD,8,2,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-flare,gpt-image-2.6-flare,Media,general,,,image,true,true,true,standard,,,text,,USD,5,1.25,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-image-2.6-sunburst,gpt-image-2.6-sunburst,Media,general,,,image,true,true,true,batch,,,image,,USD,4,1,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-sunburst,gpt-image-2.6-sunburst,Media,general,,,image,true,true,true,batch,,,text,,USD,2.5,0.625,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-image-2.6-sunburst,gpt-image-2.6-sunburst,Media,general,,,image,true,true,true,batch,,,image,,USD,4,1,15,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-sunburst,gpt-image-2.6-sunburst,Media,general,,,image,true,true,true,standard,,,image,,USD,8,2,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-image-2.6-sunburst,gpt-image-2.6-sunburst,Media,general,,,image,true,true,true,standard,,,text,,USD,5,1.25,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-live-transcribe,gpt-live-transcribe,GPT,general,,,audio|transcription,true,false,false,standard,,,audio,,USD,,,,,,,,,1.02,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1855,7 +1856,7 @@ openai,OpenAI,gpt-realtime-translate,gpt-realtime-translate,GPT,general,,,audio,
 openai,OpenAI,gpt-realtime-whisper,gpt-realtime-whisper,Audio,general,,,audio|transcription,true,false,false,standard,,,audio,,USD,,,,,,,,,1.02,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-rosalind-discovery,gpt-rosalind-discovery,GPT,general,,,text,true,false,true,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,gpt-rosalind-research,gpt-rosalind-research,GPT,general,,,text,true,false,true,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,gpt-transcribe,gpt-transcribe,GPT,general,,,audio|transcription,true,false,false,standard,,,audio,,USD,,,,,,,,,0.27,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,gpt-transcribe,gpt-transcribe,GPT,general,,,transcription|audio,true,false,false,standard,,,audio,,USD,,,,,,,,,0.27,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,o1,o1,GPT,general,,,text,true,false,true,batch,,,,,USD,7.5,,30,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,o1,o1,GPT,general,,,text,true,false,true,standard,,,,,USD,15,7.5,60,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,o1-pro,o1-pro,GPT,general,,,text,true,false,false,batch,,,,,USD,75,,300,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
@@ -1881,7 +1882,7 @@ openai,OpenAI,text-embedding-3-small,text-embedding-3-small,Embedding,general,,,
 openai,OpenAI,text-embedding-ada-002,text-embedding-ada-002,Embedding,general,,,embedding,false,false,false,standard,,,,,USD,0.1,,,,,,,,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,tts-1,tts-1,Audio,general,,,speech,false,false,false,standard,,,text,,USD,,,,,,,,15,,,,,,,,,,https://developers.openai.com/api/docs/pricing
 openai,OpenAI,tts-1-hd,tts-1-hd,Audio,general,,,speech,false,false,false,standard,,,text,,USD,,,,,,,,30,,,,,,,,,,https://developers.openai.com/api/docs/pricing
-openai,OpenAI,whisper,Whisper,Audio,general,,,audio|transcription,false,false,false,standard,,,audio,,USD,,,,,,,,,0.36,,,,,,,,,https://developers.openai.com/api/docs/pricing
+openai,OpenAI,whisper,Whisper,Audio,general,,,transcription|audio,false,false,false,standard,,,audio,,USD,,,,,,,,,0.36,,,,,,,,,https://developers.openai.com/api/docs/pricing
 opencode-zen,OpenCode,beam-free,Beam Free,,general,,,text,true,false,true,standard,,,,,USD,0,0,0,,,,,,,,,,,,,,,https://opencode.ai/docs/zen/
 opencode-zen,OpenCode,big-pickle,Big Pickle,,general,,,text,true,false,true,standard,,,,,USD,0,0,0,,,,,,,,,,,,,,,https://opencode.ai/docs/zen/
 opencode-zen,OpenCode,cat-jam-free,Cat Jam Free,,general,,,text,true,false,true,standard,,,,,USD,0,0,0,,,,,,,,,,,,,,,https://opencode.ai/docs/zen/
@@ -2068,7 +2069,7 @@ openrouter,OpenRouter,claude-opus-4,Anthropic: Claude Opus 4,Claude,general,2000
 openrouter,OpenRouter,claude-opus-4-1,Anthropic: Claude Opus 4.1,Claude,general,200000,32000,text|image,true,false,false,standard,,,,,USD,15,1.5,75,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.1
 openrouter,OpenRouter,claude-opus-4-1-batch,Anthropic: Claude Opus 4.1 (batch),Claude,general,200000,32000,image|text,true,false,false,standard,,,,,USD,7.5,0.75,37.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.1:batch
 openrouter,OpenRouter,claude-opus-4-5,Anthropic: Claude Opus 4.5,Claude,general,200000,64000,text|image,true,false,false,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.5
-openrouter,OpenRouter,claude-opus-4-5-batch,Anthropic: Claude Opus 4.5 (batch),Claude,general,200000,64000,text|image,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.5:batch
+openrouter,OpenRouter,claude-opus-4-5-batch,Anthropic: Claude Opus 4.5 (batch),Claude,general,200000,64000,image|text,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.5:batch
 openrouter,OpenRouter,claude-opus-4-6,Anthropic: Claude Opus 4.6,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.6
 openrouter,OpenRouter,claude-opus-4-6-batch,Anthropic: Claude Opus 4.6 (batch),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.6:batch
 openrouter,OpenRouter,claude-opus-4-6-fast,Anthropic: Claude Opus 4.6 (Fast),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,30,,150,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.6-fast
@@ -2076,7 +2077,7 @@ openrouter,OpenRouter,claude-opus-4-7,Anthropic: Claude Opus 4.7,Claude,general,
 openrouter,OpenRouter,claude-opus-4-7-batch,Anthropic: Claude Opus 4.7 (batch),Claude,general,1000000,128000,image|text,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.7:batch
 openrouter,OpenRouter,claude-opus-4-7-fast,Anthropic: Claude Opus 4.7 (Fast),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,30,3,150,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.7-fast
 openrouter,OpenRouter,claude-opus-4-8,Anthropic: Claude Opus 4.8,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.8
-openrouter,OpenRouter,claude-opus-4-8-batch,Anthropic: Claude Opus 4.8 (batch),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.8:batch
+openrouter,OpenRouter,claude-opus-4-8-batch,Anthropic: Claude Opus 4.8 (batch),Claude,general,1000000,128000,image|text,true,false,false,standard,,,,,USD,2.5,0.25,12.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.8:batch
 openrouter,OpenRouter,claude-opus-4-8-fast,Anthropic: Claude Opus 4.8 (Fast),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,10,1,50,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-4.8-fast
 openrouter,OpenRouter,claude-opus-5,Anthropic: Claude Opus 5,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,5,0.5,25,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-5
 openrouter,OpenRouter,claude-opus-5-5,Anthropic: Claude Opus 5.5,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-opus-5.5
@@ -2088,7 +2089,7 @@ openrouter,OpenRouter,claude-sonnet-4-5,Anthropic: Claude Sonnet 4.5,Claude,gene
 openrouter,OpenRouter,claude-sonnet-4-5-batch,Anthropic: Claude Sonnet 4.5 (batch),Claude,general,1000000,64000,text|image,true,false,false,standard,,,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-4.5:batch
 openrouter,OpenRouter,claude-sonnet-4-6,Anthropic: Claude Sonnet 4.6,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,3,0.3,15,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-4.6
 openrouter,OpenRouter,claude-sonnet-4-6-batch,Anthropic: Claude Sonnet 4.6 (batch),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,1.5,0.15,7.5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-4.6:batch
-openrouter,OpenRouter,claude-sonnet-5,Anthropic: Claude Sonnet 5,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-5
+openrouter,OpenRouter,claude-sonnet-5,Anthropic: Claude Sonnet 5,Claude,general,1000000,128000,image|text,true,false,false,standard,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-5
 openrouter,OpenRouter,claude-sonnet-5-5,Anthropic: Claude Sonnet 5.5,Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-5.5
 openrouter,OpenRouter,claude-sonnet-5-5-batch,Anthropic: Claude Sonnet 5.5 (batch),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-5.5:batch
 openrouter,OpenRouter,claude-sonnet-5-batch,Anthropic: Claude Sonnet 5 (batch),Claude,general,1000000,128000,text|image,true,false,false,standard,,,,,USD,1,0.1,5,,,,,,,,,,,,,,,https://openrouter.ai/anthropic/claude-sonnet-5:batch
@@ -2102,7 +2103,7 @@ openrouter,OpenRouter,trinity-mini,Arcee AI: Trinity Mini,,general,131072,131072
 openrouter,OpenRouter,virtuoso-large,Arcee AI: Virtuoso Large,,general,131072,64000,text,true,false,false,standard,,,,,USD,0.75,,1.2,,,,,,,,,,,,,,,https://openrouter.ai/arcee-ai/virtuoso-large
 openrouter,OpenRouter,auto-code,Auto Code,,general,2000000,128000,text|image|audio|video,true,false,false,standard,,,,,USD,,,,,,,,,,,,,,,,,,https://openrouter.ai/openrouter/auto-code
 openrouter,OpenRouter,auto,Auto Router,,general,2000000,,text|video|image|audio,true,false,false,standard,,,,,USD,,,,,,,,,,,,,,,,,,https://openrouter.ai/openrouter/auto
-openrouter,OpenRouter,auto-beta,Auto Router (Beta),,general,2000000,128000,text|image|audio|video,true,false,false,standard,,,,,USD,,,,,,,,,,,,,,,,,,https://openrouter.ai/openrouter/auto-beta
+openrouter,OpenRouter,auto-beta,Auto Router (Beta),,general,2000000,128000,audio|text|image|video,true,false,false,standard,,,,,USD,,,,,,,,,,,,,,,,,,https://openrouter.ai/openrouter/auto-beta
 openrouter,OpenRouter,ernie-4-5-300b-a47b,Baidu: ERNIE 4.5 300B A47B ,,general,131072,12000,text,false,false,false,standard,,,,,USD,0.28,,1.1,,,,,,,,,,,,,,,https://openrouter.ai/baidu/ernie-4.5-300b-a47b
 openrouter,OpenRouter,ernie-4-5-vl-28b-a3b,Baidu: ERNIE 4.5 VL 28B A3B,,general,131072,8000,text|image,true,false,false,standard,,,,,USD,0.14,,0.56,,,,,,,,,,,,,,,https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b
 openrouter,OpenRouter,ernie-4-5-vl-424b-a47b,Baidu: ERNIE 4.5 VL 424B A47B ,,general,123000,16000,text|image,false,false,false,standard,,,,,USD,0.42,,1.25,,,,,,,,,,,,,,,https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b
@@ -2126,8 +2127,8 @@ openrouter,OpenRouter,north-mini-code-free,Cohere: North Mini Code (free),Comman
 openrouter,OpenRouter,crouton-alpha,Crouton Alpha,,general,1048576,943718,image|video|text|audio,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/stealth/crouton-alpha
 openrouter,OpenRouter,cogito-v2-1-671b,Deep Cogito: Cogito v2.1 671B,,general,128000,,text,false,false,false,standard,,,,,USD,1.25,,1.25,,,,,,,,,,,,,,,https://openrouter.ai/deepcogito/cogito-v2.1-671b
 openrouter,OpenRouter,deepseek-flash-latest,DeepSeek: DeepSeek Flash Latest,,general,1048576,943718,text|image,true,false,false,standard,,,,,USD,0.036,0.01,0.5,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-flash-latest
-openrouter,OpenRouter,deepseek-pro-latest,DeepSeek: DeepSeek Pro Latest,,general,1048576,943718,text,true,false,false,off_peak,,,off_peak,,USD,0.66,0.022,1.98,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-pro-latest
-openrouter,OpenRouter,deepseek-pro-latest,DeepSeek: DeepSeek Pro Latest,,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.111,0.097,4.44,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-pro-latest
+openrouter,OpenRouter,deepseek-pro-latest,DeepSeek: DeepSeek Pro Latest,,general,1048576,393216,text,true,false,false,off_peak,,,off_peak,,USD,0.66,0.022,1.98,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-pro-latest
+openrouter,OpenRouter,deepseek-pro-latest,DeepSeek: DeepSeek Pro Latest,,general,1048576,393216,text,true,false,false,standard,,,,,USD,0.0999,0.0999,5,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-pro-latest
 openrouter,OpenRouter,deepseek-chat,DeepSeek: DeepSeek V3,DeepSeek,general,163840,16000,text,true,false,false,standard,,,,,USD,0.2574,,1.0287,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-chat
 openrouter,OpenRouter,deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,DeepSeek,general,163840,147456,text,true,false,false,standard,,,,,USD,0.25,,1,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-chat-v3-0324
 openrouter,OpenRouter,deepseek-chat-v3-1,DeepSeek: DeepSeek V3.1,DeepSeek,general,163840,147456,text,true,false,false,standard,,,,,USD,0.25,0.13,0.95,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-chat-v3.1
@@ -2140,17 +2141,17 @@ openrouter,OpenRouter,deepseek-v4-1-flash-1017,DeepSeek: DeepSeek V4.1 Flash 101
 openrouter,OpenRouter,deepseek-v4-1-flash-1017-batch,DeepSeek: DeepSeek V4.1 Flash 1017 (batch),DeepSeek,general,1048576,943718,text|image,true,false,false,standard,,,,,USD,0.035,0.0029,0.149,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch
 openrouter,OpenRouter,deepseek-v4-1-flash-batch,DeepSeek: DeepSeek V4.1 Flash (batch),DeepSeek,general,1048576,384000,image|text,true,false,false,standard,,,,,USD,0.05,0.004,0.15,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4.1-flash:batch
 openrouter,OpenRouter,deepseek-v4-flash,DeepSeek: DeepSeek V4 Flash 0423,DeepSeek,general,1048576,393216,text,true,false,false,standard,,,,,USD,0.05,0.05,0.45,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash
-openrouter,OpenRouter,deepseek-v4-flash-0731,DeepSeek: DeepSeek V4 Flash 0731,DeepSeek,general,1048576,384000,text,true,false,false,standard,,,,,USD,0.047,0.035,0.3,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-0731
+openrouter,OpenRouter,deepseek-v4-flash-0731,DeepSeek: DeepSeek V4 Flash 0731,DeepSeek,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.047,0.035,0.3,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-0731
 openrouter,OpenRouter,deepseek-v4-flash-0731-batch,DeepSeek: DeepSeek V4 Flash 0731 (batch),DeepSeek,general,1048576,384000,text,true,false,false,standard,,,,,USD,0.048,0.012,0.144,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-0731:batch
 openrouter,OpenRouter,deepseek-v4-flash-0731-free,DeepSeek: DeepSeek V4 Flash 0731 (free),DeepSeek,general,1048576,393216,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-0731:free
 openrouter,OpenRouter,deepseek-v4-flash-free,DeepSeek: DeepSeek V4 Flash (free),DeepSeek,general,1048576,384000,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash:free
 openrouter,OpenRouter,deepseek-v4-flash-latest,DeepSeek: DeepSeek V4 Flash Latest,,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.047,0.035,0.3,,,,,,,,,,,,,,,https://openrouter.ai/~deepseek/deepseek-v4-flash-latest
-openrouter,OpenRouter,deepseek-v4-flash-vision-exp,DeepSeek: DeepSeek V4 Flash Vision Exp,DeepSeek,general,1048576,393216,text|image,true,false,false,off_peak,,,off_peak,,USD,0.22,0.007,0.66,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp
-openrouter,OpenRouter,deepseek-v4-flash-vision-exp,DeepSeek: DeepSeek V4 Flash Vision Exp,DeepSeek,general,1048576,393216,text|image,true,false,false,standard,,,,,USD,0.2156,0.00686,0.6468,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp
+openrouter,OpenRouter,deepseek-v4-flash-vision-exp,DeepSeek: DeepSeek V4 Flash Vision Exp,DeepSeek,general,1048576,262144,text|image,true,false,false,off_peak,,,off_peak,,USD,0.22,0.007,0.66,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp
+openrouter,OpenRouter,deepseek-v4-flash-vision-exp,DeepSeek: DeepSeek V4 Flash Vision Exp,DeepSeek,general,1048576,262144,text|image,true,false,false,standard,,,,,USD,0.2156,0.00686,0.6468,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp
 openrouter,OpenRouter,deepseek-v4-flash-vision-exp-batch,DeepSeek: DeepSeek V4 Flash Vision Exp (batch),DeepSeek,general,1048576,943718,text|image,true,false,false,standard,,,,,USD,0.11,0.0035,0.33,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp:batch
 openrouter,OpenRouter,deepseek-v4-pro,DeepSeek: DeepSeek V4 Pro 0423,DeepSeek,general,1048576,393216,text,true,false,false,standard,,,,,USD,0.888188,0.2,1.5082,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro
-openrouter,OpenRouter,deepseek-v4-pro-0813,DeepSeek: DeepSeek V4 Pro 0813,DeepSeek,general,1048576,943718,text,true,false,false,off_peak,,,off_peak,,USD,0.66,0.022,1.98,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
-openrouter,OpenRouter,deepseek-v4-pro-0813,DeepSeek: DeepSeek V4 Pro 0813,DeepSeek,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.111,0.097,4.44,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+openrouter,OpenRouter,deepseek-v4-pro-0813,DeepSeek: DeepSeek V4 Pro 0813,DeepSeek,general,1048576,393216,text,true,false,false,off_peak,,,off_peak,,USD,0.66,0.022,1.98,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+openrouter,OpenRouter,deepseek-v4-pro-0813,DeepSeek: DeepSeek V4 Pro 0813,DeepSeek,general,1048576,393216,text,true,false,false,standard,,,,,USD,0.0999,0.0999,5,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro-0813
 openrouter,OpenRouter,deepseek-v4-pro-0813-batch,DeepSeek: DeepSeek V4 Pro 0813 (batch),DeepSeek,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.66,0.022,1.98,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-v4-pro-0813:batch
 openrouter,OpenRouter,deepseek-r1,DeepSeek: R1,DeepSeek,general,64000,16000,text,true,false,false,standard,,,,,USD,0.7,,2.5,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-r1
 openrouter,OpenRouter,deepseek-r1-0528,DeepSeek: R1 0528,DeepSeek,general,163840,32000,text,true,false,false,standard,,,,,USD,0.5,0.35,2.15,,,,,,,,,,,,,,,https://openrouter.ai/deepseek/deepseek-r1-0528
@@ -2165,7 +2166,7 @@ openrouter,OpenRouter,gemini-2-0-flash-001,Google: Gemini 2.0 Flash,Gemini,gener
 openrouter,OpenRouter,gemini-2-0-flash-lite-001,Google: Gemini 2.0 Flash Lite,Gemini,general,1048576,8192,text|image|audio,true,false,false,standard,,,,,USD,0.075,,0.3,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.0-flash-lite-001
 openrouter,OpenRouter,gemini-2-5-flash,Google: Gemini 2.5 Flash,Gemini,general,1048576,65535,image|text|audio|video,true,false,false,standard,,,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash
 openrouter,OpenRouter,gemini-2-5-flash-batch,Google: Gemini 2.5 Flash (batch),Gemini,general,1048576,65535,image|audio|text|video,true,false,false,standard,,,,,USD,0.15,0.03,1.25,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash:batch
-openrouter,OpenRouter,gemini-2-5-flash-lite,Google: Gemini 2.5 Flash Lite,Gemini,general,1048576,65535,video|text|image|audio,true,false,false,standard,,,,,USD,0.1,0.01,0.4,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash-lite
+openrouter,OpenRouter,gemini-2-5-flash-lite,Google: Gemini 2.5 Flash Lite,Gemini,general,1048576,65535,image|video|text|audio,true,false,false,standard,,,,,USD,0.1,0.01,0.4,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash-lite
 openrouter,OpenRouter,gemini-2-5-flash-lite-batch,Google: Gemini 2.5 Flash Lite (batch),Gemini,general,1048576,65535,video|audio|image|text,true,false,false,standard,,,,,USD,0.05,0.01,0.2,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash-lite:batch
 openrouter,OpenRouter,gemini-2-5-flash-lite-preview-09-2025,Google: Gemini 2.5 Flash Lite Preview 09-2025,Gemini,general,1048576,65535,text|image|audio,true,false,false,standard,,,,,USD,0.1,,0.4,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025
 openrouter,OpenRouter,gemini-2-5-pro,Google: Gemini 2.5 Pro,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,1.25,0.125,10,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-pro
@@ -2173,7 +2174,7 @@ openrouter,OpenRouter,gemini-2-5-pro-batch,Google: Gemini 2.5 Pro (batch),Gemini
 openrouter,OpenRouter,gemini-2-5-pro-preview-05-06,Google: Gemini 2.5 Pro Preview 05-06,Gemini,general,1048576,65535,text|audio|image|video,true,false,false,standard,,,,,USD,1.25,0.125,10,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-pro-preview-05-06
 openrouter,OpenRouter,gemini-2-5-pro-preview,Google: Gemini 2.5 Pro Preview 06-05,Gemini,general,1048576,65536,text|image|audio,true,false,false,standard,,,,,USD,1.25,0.125,10,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-2.5-pro-preview
 openrouter,OpenRouter,gemini-3-1-flash-lite,Google: Gemini 3.1 Flash Lite,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-flash-lite
-openrouter,OpenRouter,gemini-3-1-flash-lite-batch,Google: Gemini 3.1 Flash Lite (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-flash-lite:batch
+openrouter,OpenRouter,gemini-3-1-flash-lite-batch,Google: Gemini 3.1 Flash Lite (batch),Gemini,general,1048576,65536,audio|text|image|video,true,false,false,standard,,,,,USD,0.125,0.0125,0.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-flash-lite:batch
 openrouter,OpenRouter,gemini-3-1-flash-lite-preview,Google: Gemini 3.1 Flash Lite Preview,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.25,0.025,1.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-flash-lite-preview
 openrouter,OpenRouter,gemini-3-1-pro-preview,Google: Gemini 3.1 Pro Preview,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-pro-preview
 openrouter,OpenRouter,gemini-3-1-pro-preview-batch,Google: Gemini 3.1 Pro Preview (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,1,,6,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.1-pro-preview:batch
@@ -2181,31 +2182,31 @@ openrouter,OpenRouter,gemini-3-1-pro-preview-customtools,Google: Gemini 3.1 Pro 
 openrouter,OpenRouter,gemini-3-5-flash,Google: Gemini 3.5 Flash,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,1.5,0.15,9,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.5-flash
 openrouter,OpenRouter,gemini-3-5-flash-batch,Google: Gemini 3.5 Flash (batch),Gemini,general,1048576,65536,audio|text|image|video,true,false,false,standard,,,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.5-flash:batch
 openrouter,OpenRouter,gemini-3-5-flash-lite,Google: Gemini 3.5 Flash Lite,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.3,0.03,2.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.5-flash-lite
-openrouter,OpenRouter,gemini-3-5-flash-lite-batch,Google: Gemini 3.5 Flash Lite (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.15,0.015,1.25,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.5-flash-lite:batch
+openrouter,OpenRouter,gemini-3-5-flash-lite-batch,Google: Gemini 3.5 Flash Lite (batch),Gemini,general,1048576,65536,audio|text|image|video,true,false,false,standard,,,,,USD,0.15,0.015,1.25,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.5-flash-lite:batch
 openrouter,OpenRouter,gemini-3-6-flash,Google: Gemini 3.6 Flash,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.6-flash
 openrouter,OpenRouter,gemini-3-6-flash-batch,Google: Gemini 3.6 Flash (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.6-flash:batch
 openrouter,OpenRouter,gemini-3-7-flash,Google: Gemini 3.7 Flash,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.7-flash
 openrouter,OpenRouter,gemini-3-7-flash-batch,Google: Gemini 3.7 Flash (batch),Gemini,general,1048576,65536,video|text|image|audio,true,false,false,standard,,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.7-flash:batch
 openrouter,OpenRouter,gemini-3-8-flash,Google: Gemini 3.8 Flash,Gemini,general,1048576,65536,video|text|image|audio,true,false,false,standard,,,,,USD,0.75,0.075,3.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.8-flash
-openrouter,OpenRouter,gemini-3-8-flash-batch,Google: Gemini 3.8 Flash (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.8-flash:batch
+openrouter,OpenRouter,gemini-3-8-flash-batch,Google: Gemini 3.8 Flash (batch),Gemini,general,1048576,65536,image|text|audio|video,true,false,false,standard,,,,,USD,0.375,0.0375,1.875,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3.8-flash:batch
 openrouter,OpenRouter,gemini-3-flash-preview,Google: Gemini 3 Flash Preview,Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.5,0.05,3,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3-flash-preview
 openrouter,OpenRouter,gemini-3-flash-preview-batch,Google: Gemini 3 Flash Preview (batch),Gemini,general,1048576,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.25,,1.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-3-flash-preview:batch
 openrouter,OpenRouter,gemini-4-argon,Google: Gemini 4 Argon,Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-argon
-openrouter,OpenRouter,gemini-4-argon-batch,Google: Gemini 4 Argon (batch),Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-argon:batch
+openrouter,OpenRouter,gemini-4-argon-batch,Google: Gemini 4 Argon (batch),Gemini,general,1048576,943718,audio|text|image|video,true,false,false,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-argon:batch
 openrouter,OpenRouter,gemini-4-carbon,Google: Gemini 4 Carbon,Gemini,general,1048576,943718,video|text|image|audio,true,false,false,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-carbon
 openrouter,OpenRouter,gemini-4-carbon-batch,Google: Gemini 4 Carbon (batch),Gemini,general,1048576,943718,image|text|audio|video,true,false,false,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-carbon:batch
 openrouter,OpenRouter,gemini-4-hydrogen,Google: Gemini 4 Hydrogen,Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,1.5,0.075,7.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-hydrogen
 openrouter,OpenRouter,gemini-4-hydrogen-batch,Google: Gemini 4 Hydrogen (batch),Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,0.75,0.0375,3.75,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-hydrogen:batch
-openrouter,OpenRouter,gemini-4-neon,Google: Gemini 4 Neon,Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,3,0.15,15,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-neon
+openrouter,OpenRouter,gemini-4-neon,Google: Gemini 4 Neon,Gemini,general,1048576,943718,video|text|image|audio,true,false,false,standard,,,,,USD,3,0.15,15,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-neon
 openrouter,OpenRouter,gemini-4-neon-batch,Google: Gemini 4 Neon (batch),Gemini,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,1.5,0.075,7.5,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-4-neon:batch
 openrouter,OpenRouter,gemini-flash-latest,Google: Gemini Flash Latest,,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,1.5,0.075,7.5,,,,,,,,,,,,,,,https://openrouter.ai/~google/gemini-flash-latest
 openrouter,OpenRouter,gemini-omni-1-1-flash,Google: Gemini Omni 1.1 Flash,Gemini,general,131072,65536,text|image|video,false,false,false,standard,,,,,USD,1.5,,9,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-omni-1.1-flash
 openrouter,OpenRouter,gemini-omni-1-2-flash,Google: Gemini Omni 1.2 Flash,Gemini,general,131072,65536,text|image|video,false,false,false,standard,,,,,USD,1.5,,9,,,,,,,,,,,,,,,https://openrouter.ai/google/gemini-omni-1.2-flash
-openrouter,OpenRouter,gemini-pro-latest,Google: Gemini Pro Latest,,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://openrouter.ai/~google/gemini-pro-latest
+openrouter,OpenRouter,gemini-pro-latest,Google: Gemini Pro Latest,,general,1048576,943718,audio|text|image|video,true,false,false,standard,,,,,USD,2,0.1,10,,,,,,,,,,,,,,,https://openrouter.ai/~google/gemini-pro-latest
 openrouter,OpenRouter,gemma-2-27b-it,Google: Gemma 2 27B,Gemini,general,8192,2048,text,false,false,false,standard,,,,,USD,0.65,,0.65,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-2-27b-it
 openrouter,OpenRouter,gemma-3-12b-it,Google: Gemma 3 12B,Gemini,general,131072,16384,text|image,true,false,false,standard,,,,,USD,0.05,,0.15,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-3-12b-it
 openrouter,OpenRouter,gemma-3-27b-it,Google: Gemma 3 27B,Gemini,general,131072,16384,text|image,true,false,false,standard,,,,,USD,0.07,0.04,0.275,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-3-27b-it
-openrouter,OpenRouter,gemma-3-4b-it,Google: Gemma 3 4B,Gemini,general,131072,117964,text|image,false,false,false,standard,,,,,USD,0.04,0.02,0.05,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-3-4b-it
+openrouter,OpenRouter,gemma-3-4b-it,Google: Gemma 3 4B,Gemini,general,131072,16384,text|image,false,false,false,standard,,,,,USD,0.04,0.02,0.05,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-3-4b-it
 openrouter,OpenRouter,gemma-3n-e4b-it,Google: Gemma 3n 4B,Gemini,general,32768,,text,false,false,false,standard,,,,,USD,0.06,,0.12,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-3n-e4b-it
 openrouter,OpenRouter,gemma-4-26b-a4b-it,Google: Gemma 4 26B A4B ,Gemini,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.05,0.0125,0.19,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-4-26b-a4b-it
 openrouter,OpenRouter,gemma-4-26b-a4b-it-free,Google: Gemma 4 26B A4B  (free),Gemini,general,262144,32768,text|image|video,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/google/gemma-4-26b-a4b-it:free
@@ -2241,6 +2242,7 @@ openrouter,OpenRouter,ling-3-0-tiny,inclusionAI: Ling 3.0 Tiny,,general,262144,2
 openrouter,OpenRouter,ling-3-0-tiny-free,inclusionAI: Ling 3.0 Tiny (free),,general,262144,32768,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/inclusionai/ling-3.0-tiny:free
 openrouter,OpenRouter,ling-3-1-flash,inclusionAI: Ling 3.1 Flash,,general,1048576,262144,text,true,false,false,standard,,,,,USD,0.075,0.015,0.225,,,,,,,,,,,,,,,https://openrouter.ai/inclusionai/ling-3.1-flash
 openrouter,OpenRouter,ling-3-2-flash-free,inclusionAI: Ling 3.2 Flash (free),,general,1048576,262144,text|image,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/inclusionai/ling-3.2-flash:free
+openrouter,OpenRouter,lingsante-3-1-air-vl,inclusionAI: LingSante 3.1 Air VL,,general,131072,32768,text|image,true,false,false,standard,,,,,USD,0.06,0.012,0.18,,,,,,,,,,,,,,,https://openrouter.ai/inclusionai/lingsante-3.1-air-vl
 openrouter,OpenRouter,ring-2-6-1t,inclusionAI: Ring-2.6-1T,,general,262144,65536,text,true,false,false,standard,,,,,USD,0.075,,0.625,,,,,,,,,,,,,,,https://openrouter.ai/inclusionai/ring-2.6-1t
 openrouter,OpenRouter,schematron-v2-small,Inference.net: Schematron V2 Small,,general,128000,8192,text,false,false,false,standard,,,,,USD,0.05,0.05,0.23,,,,,,,,,,,,,,,https://openrouter.ai/inference-net/schematron-v2-small
 openrouter,OpenRouter,schematron-v2-turbo,Inference.net: Schematron V2 Turbo,,general,128000,8192,text,false,false,false,standard,,,,,USD,0.03,0.03,0.15,,,,,,,,,,,,,,,https://openrouter.ai/inference-net/schematron-v2-turbo
@@ -2269,23 +2271,23 @@ openrouter,OpenRouter,llama-3-2-11b-vision-instruct,Meta: Llama 3.2 11B Vision I
 openrouter,OpenRouter,llama-3-2-1b-instruct,Meta: Llama 3.2 1B Instruct,Llama,general,60000,54000,text,false,false,false,standard,,,,,USD,0.027,,0.201,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.2-1b-instruct
 openrouter,OpenRouter,llama-3-2-3b-instruct,Meta: Llama 3.2 3B Instruct,Llama,general,131072,117964,text,false,false,false,standard,,,,,USD,0.05,,0.33,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.2-3b-instruct
 openrouter,OpenRouter,llama-3-2-3b-instruct-free,Meta: Llama 3.2 3B Instruct (free),Llama,general,131072,,text,false,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free
-openrouter,OpenRouter,llama-3-3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama,general,131072,115200,text,true,false,false,standard,,,,,USD,0.1,,0.32,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.3-70b-instruct
+openrouter,OpenRouter,llama-3-3-70b-instruct,Meta: Llama 3.3 70B Instruct,Llama,general,131072,32768,text,true,false,false,standard,,,,,USD,0.1,,0.32,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.3-70b-instruct
 openrouter,OpenRouter,llama-3-3-70b-instruct-free,Meta: Llama 3.3 70B Instruct (free),Llama,general,131072,,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free
 openrouter,OpenRouter,llama-3-70b-instruct,Meta: Llama 3 70B Instruct,Llama,general,8192,8000,text,false,false,false,standard,,,,,USD,0.51,,0.74,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3-70b-instruct
 openrouter,OpenRouter,llama-3-8b-instruct,Meta: Llama 3 8B Instruct,Llama,general,8192,8192,text,false,false,false,standard,,,,,USD,0.14,,0.14,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-3-8b-instruct
-openrouter,OpenRouter,llama-4-maverick,Meta: Llama 4 Maverick,Llama,general,524288,32768,text|image,true,false,false,standard,,,,,USD,0.35,0.17,1,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-4-maverick
+openrouter,OpenRouter,llama-4-maverick,Meta: Llama 4 Maverick,Llama,general,524288,32768,image|text,true,false,false,standard,,,,,USD,0.35,0.17,1,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-4-maverick
 openrouter,OpenRouter,llama-4-scout,Meta: Llama 4 Scout,Llama,general,1310720,16384,text|image,true,false,false,standard,,,,,USD,0.1,,0.3,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-4-scout
 openrouter,OpenRouter,llama-guard-4-12b,Meta: Llama Guard 4 12B,Llama,general,163840,16384,text|image,false,false,false,standard,,,,,USD,0.18,,0.18,,,,,,,,,,,,,,,https://openrouter.ai/meta-llama/llama-guard-4-12b
 openrouter,OpenRouter,muse-ember,Meta: Muse Ember,,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,0.1,0.004,0.5,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-ember
-openrouter,OpenRouter,muse-glimmer-30b,Meta: Muse Glimmer 30B,,general,131072,117964,text|image,true,false,false,standard,,,,,USD,0.3,0.04,1.2,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-glimmer-30b
+openrouter,OpenRouter,muse-glimmer-30b,Meta: Muse Glimmer 30B,,general,131072,16384,text|image,true,false,false,standard,,,,,USD,0.3,0.04,1.2,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-glimmer-30b
 openrouter,OpenRouter,muse-glimmer-30b-batch,Meta: Muse Glimmer 30B (batch),,general,131072,16384,text|image,true,false,false,standard,,,,,USD,0.24,0.032,0.96,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-glimmer-30b:batch
 openrouter,OpenRouter,muse-spark-1-1,Meta: Muse Spark 1.1,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,1.25,0.15,4.25,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.1
 openrouter,OpenRouter,muse-spark-1-2,Meta: Muse Spark 1.2,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,1.25,0.15,4.25,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.2
 openrouter,OpenRouter,muse-spark-1-2-contributor,Meta: Muse Spark 1.2 Contributor,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,0.1,0.002,0.2,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.2-contributor
-openrouter,OpenRouter,muse-spark-1-3,Meta: Muse Spark 1.3,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,1.25,0.15,4.25,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.3
+openrouter,OpenRouter,muse-spark-1-3,Meta: Muse Spark 1.3,,general,1048576,943718,image|text|video,true,false,false,standard,,,,,USD,1.25,0.15,4.25,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.3
 openrouter,OpenRouter,muse-spark-1-3-contributor,Meta: Muse Spark 1.3 Contributor,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,0.1,0.002,0.2,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-1.3-contributor
 openrouter,OpenRouter,muse-spark-open,Meta: Muse Spark Open,,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,1.25,0.15,4.25,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-spark-open
-openrouter,OpenRouter,muse-wonder,Meta: Muse Wonder,,general,1048576,943718,text|image|audio|video,true,false,false,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-wonder
+openrouter,OpenRouter,muse-wonder,Meta: Muse Wonder,,general,1048576,943718,video|text|image|audio,true,false,false,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://openrouter.ai/meta/muse-wonder
 openrouter,OpenRouter,phi-4,Microsoft: Phi 4,,general,16384,14745,text,false,false,false,standard,,,,,USD,0.07,,0.14,,,,,,,,,,,,,,,https://openrouter.ai/microsoft/phi-4
 openrouter,OpenRouter,phi-4-mini-instruct,Microsoft: Phi 4 Mini Instruct,,general,131072,128000,text,false,false,false,standard,,,,,USD,0.08,,0.35,,,,,,,,,,,,,,,https://openrouter.ai/microsoft/phi-4-mini-instruct
 openrouter,OpenRouter,minimax-01,MiniMax: MiniMax-01,,general,1000192,900172,text|image,false,false,false,standard,,,,,USD,0.2,,1.1,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-01
@@ -2299,7 +2301,7 @@ openrouter,OpenRouter,minimax-m2-her,MiniMax: MiniMax M2-her,,general,65536,2048
 openrouter,OpenRouter,minimax-m3,MiniMax: MiniMax M3,,general,1048576,512000,text|image|video,true,false,false,standard,,,,,USD,0.23,0.05,0.96,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3
 openrouter,OpenRouter,minimax-m3-1-flash,MiniMax: MiniMax M3.1 Flash,,general,1048576,524288,text|image|video,true,false,false,standard,,,,,USD,0.075,0.0075,0.3,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3.1-flash
 openrouter,OpenRouter,minimax-m3-1-flash-free,MiniMax: MiniMax M3.1 Flash (free),,general,1000000,524288,text|image|video,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3.1-flash:free
-openrouter,OpenRouter,minimax-m3-batch,MiniMax: MiniMax M3 (batch),,general,524288,512000,text|image|video,true,false,false,standard,,,,,USD,0.224,0.0448,0.88,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3:batch
+openrouter,OpenRouter,minimax-m3-batch,MiniMax: MiniMax M3 (batch),,general,524288,512000,image|text|video,true,false,false,standard,,,,,USD,0.224,0.0448,0.88,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3:batch
 openrouter,OpenRouter,minimax-m3-free,MiniMax: MiniMax M3 (free),,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/minimax/minimax-m3:free
 openrouter,OpenRouter,codestral-2508,Mistral: Codestral 2508,Mistral,general,256000,204800,text,true,false,false,standard,,,,,USD,0.3,0.03,0.9,,,,,,,,,,,,,,,https://openrouter.ai/mistralai/codestral-2508
 openrouter,OpenRouter,codestral-2508-batch,Mistral: Codestral 2508 (batch),Mistral,general,256000,204800,text,true,false,false,standard,,,,,USD,0.15,0.015,0.45,,,,,,,,,,,,,,,https://openrouter.ai/mistralai/codestral-2508:batch
@@ -2337,10 +2339,10 @@ openrouter,OpenRouter,moondream3-1-9b-a2b,Moondream: Moondream 3.1,,general,3200
 openrouter,OpenRouter,moondream3-preview,Moondream: Moondream 3 Preview,,general,32000,4096,text|image,false,false,false,standard,,,,,USD,0.3,,2.5,,,,,,,,,,,,,,,https://openrouter.ai/moondream/moondream3-preview
 openrouter,OpenRouter,kimi-k2,MoonshotAI: Kimi K2 0711,,general,131072,98304,text,true,false,false,standard,,,,,USD,0.57,,2.3,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2
 openrouter,OpenRouter,kimi-k2-0905,MoonshotAI: Kimi K2 0905,,general,262144,98304,text,true,false,false,standard,,,,,USD,0.6,,2.5,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2-0905
-openrouter,OpenRouter,kimi-k2-5,MoonshotAI: Kimi K2.5,,general,262144,235929,text|image,true,false,false,standard,,,,,USD,0.5,0.15,2.5,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.5
+openrouter,OpenRouter,kimi-k2-5,MoonshotAI: Kimi K2.5,,general,262144,131072,text|image,true,false,false,standard,,,,,USD,0.5,0.15,2.5,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.5
 openrouter,OpenRouter,kimi-k2-6,MoonshotAI: Kimi K2.6,,general,262144,235929,text|image,true,false,false,standard,,,,,USD,0.39,0.039,1.8,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.6
 openrouter,OpenRouter,kimi-k2-6-free,MoonshotAI: Kimi K2.6 (free),,general,262144,,text|image,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.6:free
-openrouter,OpenRouter,kimi-k2-7-code,MoonshotAI: Kimi K2.7 Code,,general,262144,235929,text|image,true,false,false,standard,,,,,USD,0.6,0.12,3,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.7-code
+openrouter,OpenRouter,kimi-k2-7-code,MoonshotAI: Kimi K2.7 Code,,general,262144,235929,image|text,true,false,false,standard,,,,,USD,0.6,0.12,3,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.7-code
 openrouter,OpenRouter,kimi-k2-7-code-batch,MoonshotAI: Kimi K2.7 Code (batch),,general,262144,235929,text|image,true,false,false,standard,,,,,USD,0.95,,4,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2.7-code:batch
 openrouter,OpenRouter,kimi-k2-thinking,MoonshotAI: Kimi K2 Thinking,,general,262144,98304,text,true,false,false,standard,,,,,USD,0.6,0.15,2.5,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k2-thinking
 openrouter,OpenRouter,kimi-k3,MoonshotAI: Kimi K3,,general,1048576,943718,text|image|video,true,false,false,standard,,,,,USD,0.153,0.152,16,,,,,,,,,,,,,,,https://openrouter.ai/moonshotai/kimi-k3
@@ -2427,14 +2429,14 @@ openrouter,OpenRouter,gpt-5-2-batch,OpenAI: GPT-5.2 (batch),GPT,general,400000,1
 openrouter,OpenRouter,gpt-5-2-chat,OpenAI: GPT-5.2 Chat,GPT,general,128000,32000,image|text,true,false,false,standard,,,,,USD,1.75,0.175,14,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.2-chat
 openrouter,OpenRouter,gpt-5-2-codex,OpenAI: GPT-5.2-Codex,GPT,general,400000,128000,image|text,true,false,false,standard,,,,,USD,1.75,0.175,14,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.2-codex
 openrouter,OpenRouter,gpt-5-2-pro,OpenAI: GPT-5.2 Pro,GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,21,,168,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.2-pro
-openrouter,OpenRouter,gpt-5-2-pro-batch,OpenAI: GPT-5.2 Pro (batch),GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,10.5,,84,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.2-pro:batch
+openrouter,OpenRouter,gpt-5-2-pro-batch,OpenAI: GPT-5.2 Pro (batch),GPT,general,400000,128000,image|text,true,false,false,standard,,,,,USD,10.5,,84,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.2-pro:batch
 openrouter,OpenRouter,gpt-5-3-chat,OpenAI: GPT-5.3 Chat,GPT,general,128000,16384,text|image,true,false,false,standard,,,,,USD,1.75,,14,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.3-chat
-openrouter,OpenRouter,gpt-5-3-codex,OpenAI: GPT-5.3-Codex,GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,1.75,0.175,14,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.3-codex
+openrouter,OpenRouter,gpt-5-3-codex,OpenAI: GPT-5.3-Codex,GPT,general,400000,128000,image|text,true,false,false,standard,,,,,USD,1.75,0.175,14,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.3-codex
 openrouter,OpenRouter,gpt-5-4,OpenAI: GPT-5.4,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,2.5,0.25,15,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4
 openrouter,OpenRouter,gpt-5-4-batch,OpenAI: GPT-5.4 (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,1.25,0.125,7.5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4:batch
 openrouter,OpenRouter,gpt-5-4-image-2,OpenAI: GPT-5.4 Image 2,GPT,general,272000,128000,text|image,false,false,false,standard,,,,,USD,8,2,15,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-image-2
 openrouter,OpenRouter,gpt-5-4-mini,OpenAI: GPT-5.4 Mini,GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-mini
-openrouter,OpenRouter,gpt-5-4-mini-batch,OpenAI: GPT-5.4 Mini (batch),GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.375,0.0375,2.25,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-mini:batch
+openrouter,OpenRouter,gpt-5-4-mini-batch,OpenAI: GPT-5.4 Mini (batch),GPT,general,400000,128000,image|text,true,false,false,standard,,,,,USD,0.375,0.0375,2.25,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-mini:batch
 openrouter,OpenRouter,gpt-5-4-nano,OpenAI: GPT-5.4 Nano,GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.2,0.02,1.25,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-nano
 openrouter,OpenRouter,gpt-5-4-nano-batch,OpenAI: GPT-5.4 Nano (batch),GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.1,0.01,0.625,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-nano:batch
 openrouter,OpenRouter,gpt-5-4-pro,OpenAI: GPT-5.4 Pro,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,30,,180,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.4-pro
@@ -2453,7 +2455,7 @@ openrouter,OpenRouter,gpt-5-6-sol-pro,OpenAI: GPT-5.6 Sol Pro,GPT,general,105000
 openrouter,OpenRouter,gpt-5-6-sol-pro-batch,OpenAI: GPT-5.6 Sol Pro (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-sol-pro:batch
 openrouter,OpenRouter,gpt-5-6-terra,OpenAI: GPT-5.6 Terra,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-terra
 openrouter,OpenRouter,gpt-5-6-terra-batch,OpenAI: GPT-5.6 Terra (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,1,0.1,6,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-terra:batch
-openrouter,OpenRouter,gpt-5-6-terra-pro,OpenAI: GPT-5.6 Terra Pro,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-terra-pro
+openrouter,OpenRouter,gpt-5-6-terra-pro,OpenAI: GPT-5.6 Terra Pro,GPT,general,1050000,128000,image|text,true,false,false,standard,,,,,USD,2,0.2,12,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-terra-pro
 openrouter,OpenRouter,gpt-5-6-terra-pro-batch,OpenAI: GPT-5.6 Terra Pro (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,1,0.1,6,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5.6-terra-pro:batch
 openrouter,OpenRouter,gpt-5-batch,OpenAI: GPT-5 (batch),GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.625,0.0625,5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5:batch
 openrouter,OpenRouter,gpt-5-chat,OpenAI: GPT-5 Chat,GPT,general,128000,16384,text|image,false,false,false,standard,,,,,USD,1.25,,10,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-5-chat
@@ -2475,7 +2477,7 @@ openrouter,OpenRouter,gpt-6-1-terra,OpenAI: GPT-6.1 Terra,GPT,general,1050000,12
 openrouter,OpenRouter,gpt-6-1-terra-batch,OpenAI: GPT-6.1 Terra (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,0.5,0.025,2.5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.1-terra:batch
 openrouter,OpenRouter,gpt-6-1-terra-pro,OpenAI: GPT-6.1 Terra Pro,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,1,0.05,5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.1-terra-pro
 openrouter,OpenRouter,gpt-6-1-terra-pro-batch,OpenAI: GPT-6.1 Terra Pro (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,0.5,0.025,2.5,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.1-terra-pro:batch
-openrouter,OpenRouter,gpt-6-2-astra,OpenAI: GPT-6.2 Astra,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,8,0.4,40,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.2-astra
+openrouter,OpenRouter,gpt-6-2-astra,OpenAI: GPT-6.2 Astra,GPT,general,1050000,128000,image|text,true,false,false,standard,,,,,USD,8,0.4,40,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.2-astra
 openrouter,OpenRouter,gpt-6-2-astra-batch,OpenAI: GPT-6.2 Astra (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.2-astra:batch
 openrouter,OpenRouter,gpt-6-2-astra-pro,OpenAI: GPT-6.2 Astra Pro,GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,8,0.4,40,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.2-astra-pro
 openrouter,OpenRouter,gpt-6-2-astra-pro-batch,OpenAI: GPT-6.2 Astra Pro (batch),GPT,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,4,0.2,20,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-6.2-astra-pro:batch
@@ -2501,11 +2503,11 @@ openrouter,OpenRouter,gpt-audio-mini,OpenAI: GPT Audio Mini,GPT,general,128000,1
 openrouter,OpenRouter,gpt-chat-latest,OpenAI: GPT Chat Latest,GPT,general,400000,128000,text|image,true,false,false,standard,,,,,USD,5,0.5,30,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-chat-latest
 openrouter,OpenRouter,gpt-latest,OpenAI GPT Latest,,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,2,0.2,10,,,,,,,,,,,,,,,https://openrouter.ai/~openai/gpt-latest
 openrouter,OpenRouter,gpt-luna-latest,OpenAI: GPT Luna Latest,,general,1050000,128000,text|image,true,false,false,standard,,,,,USD,0.1,0.01,0.5,,,,,,,,,,,,,,,https://openrouter.ai/~openai/gpt-luna-latest
-openrouter,OpenRouter,gpt-mini-latest,OpenAI: GPT Mini Latest,,general,400000,128000,text|image,true,false,false,standard,,,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://openrouter.ai/~openai/gpt-mini-latest
+openrouter,OpenRouter,gpt-mini-latest,OpenAI: GPT Mini Latest,,general,400000,128000,image|text,true,false,false,standard,,,,,USD,0.75,0.075,4.5,,,,,,,,,,,,,,,https://openrouter.ai/~openai/gpt-mini-latest
 openrouter,OpenRouter,gpt-oss-120b,OpenAI: gpt-oss-120b,GPT,general,131072,117964,text,true,false,false,standard,,,,,USD,0.03,0.015,0.15,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-120b
 openrouter,OpenRouter,gpt-oss-120b-batch,OpenAI: gpt-oss-120b (batch),GPT,general,131072,117964,text,true,false,false,standard,,,,,USD,0.0296,,0.136,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-120b:batch
 openrouter,OpenRouter,gpt-oss-120b-free,OpenAI: gpt-oss-120b (free),GPT,general,131072,131072,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-120b:free
-openrouter,OpenRouter,gpt-oss-20b,OpenAI: gpt-oss-20b,GPT,general,131072,117964,text,true,false,false,standard,,,,,USD,0.017,0.0085,0.085,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-20b
+openrouter,OpenRouter,gpt-oss-20b,OpenAI: gpt-oss-20b,GPT,general,131072,117964,text,true,false,false,standard,,,,,USD,0.0153,0.00765,0.0765,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-20b
 openrouter,OpenRouter,gpt-oss-20b-batch,OpenAI: gpt-oss-20b (batch),GPT,general,131072,117964,text,true,false,false,standard,,,,,USD,0.024,,0.112,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-20b:batch
 openrouter,OpenRouter,gpt-oss-20b-free,OpenAI: gpt-oss-20b (free),GPT,general,131072,32768,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-20b:free
 openrouter,OpenRouter,gpt-oss-safeguard-20b,OpenAI: gpt-oss-safeguard-20b,GPT,general,131072,65536,text,true,false,false,standard,,,,,USD,0.075,0.0375,0.3,,,,,,,,,,,,,,,https://openrouter.ai/openai/gpt-oss-safeguard-20b
@@ -2537,9 +2539,9 @@ openrouter,OpenRouter,pareto-26-10,Pareto 26.10,,general,1048576,131072,image|te
 openrouter,OpenRouter,pareto-26-10-preview,Pareto 26.10 Preview,,general,1048576,131072,image|text,true,false,false,standard,,,,,USD,0.8,0.03,3.2,,,,,,,,,,,,,,,https://openrouter.ai/unbiased/pareto-26.10-preview
 openrouter,OpenRouter,pareto-26-9,Pareto 26.9,,general,262144,131072,image|text,true,false,false,standard,,,,,USD,2.5,0.25,7.5,,,,,,,,,,,,,,,https://openrouter.ai/unbiased/pareto-26.9
 openrouter,OpenRouter,pareto-code,Pareto Code Router,,general,2000000,,text,true,false,false,standard,,,,,USD,,,,,,,,,,,,,,,,,,https://openrouter.ai/openrouter/pareto-code
-openrouter,OpenRouter,pareto-latest,Pareto Latest,,general,262144,131072,text|image,false,false,false,standard,,,,,USD,0.8,0.03,3.2,,,,,,,,,,,,,,,https://openrouter.ai/~unbiased/pareto-latest
-openrouter,OpenRouter,particle-1,Particle AI: Particle-1,,general,1048576,131072,text|image,true,false,false,standard,,,,,USD,0.07,0.03,0.5,,,,,,,,,,,,,,,https://openrouter.ai/particle-ai/particle-1
-openrouter,OpenRouter,particle-1-free,Particle AI: Particle-1 (free),,general,1048576,131072,text|image,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/particle-ai/particle-1:free
+openrouter,OpenRouter,pareto-latest,Pareto Latest,,general,262144,131072,image|text,false,false,false,standard,,,,,USD,0.8,0.03,3.2,,,,,,,,,,,,,,,https://openrouter.ai/~unbiased/pareto-latest
+openrouter,OpenRouter,particle-1,Particle AI: Particle-1,,general,1048576,943718,text|image,true,false,false,standard,,,,,USD,0.07,0.03,0.5,,,,,,,,,,,,,,,https://openrouter.ai/particle-ai/particle-1
+openrouter,OpenRouter,particle-1-free,Particle AI: Particle-1 (free),,general,1048576,943718,text|image,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/particle-ai/particle-1:free
 openrouter,OpenRouter,perceptron-mk1,Perceptron: Perceptron Mk1,,general,32768,8192,text|image|video,false,false,false,standard,,,,,USD,0.15,,1.5,,,,,,,,,,,,,,,https://openrouter.ai/perceptron/perceptron-mk1
 openrouter,OpenRouter,perceptron-mk1-5,Perceptron: Perceptron Mk1.5,,general,36864,8192,text|image|audio|video,true,false,false,standard,,,,,USD,0.15,,1.5,,,,,,,,,,,,,,,https://openrouter.ai/perceptron/perceptron-mk1.5
 openrouter,OpenRouter,sonar,Perplexity: Sonar,,general,127072,114364,text|image,false,false,false,standard,,,,,USD,1,,1,,,,,,,,,,,,,,,https://openrouter.ai/perplexity/sonar
@@ -2574,23 +2576,23 @@ openrouter,OpenRouter,qwen3-5-122b-a10b,Qwen: Qwen3.5-122B-A10B,Qwen,general,262
 openrouter,OpenRouter,qwen3-5-27b,Qwen: Qwen3.5-27B,Qwen,general,262144,81920,text|image|video,true,false,false,standard,,,,,USD,0.195,,1.56,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-27b
 openrouter,OpenRouter,qwen3-5-35b-a3b,Qwen: Qwen3.5-35B-A3B,Qwen,general,262144,81920,text|image|video,true,false,false,standard,,,,,USD,0.065,0.0325,0.75,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-35b-a3b
 openrouter,OpenRouter,qwen3-5-397b-a17b,Qwen: Qwen3.5 397B A17B,Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.39,,2.34,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-397b-a17b
-openrouter,OpenRouter,qwen3-5-9b,Qwen: Qwen3.5-9B,Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.08,0.04,0.13,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-9b
+openrouter,OpenRouter,qwen3-5-9b,Qwen: Qwen3.5-9B,Qwen,general,262144,235929,video|text|image,true,false,false,standard,,,,,USD,0.08,0.04,0.13,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-9b
 openrouter,OpenRouter,qwen3-5-9b-batch,Qwen: Qwen3.5-9B (batch),Qwen,general,262144,235929,image|text|video,true,false,false,standard,,,,,USD,0.17,,0.25,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-9b:batch
 openrouter,OpenRouter,qwen3-5-flash-02-23,Qwen: Qwen3.5-Flash,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.065,,0.26,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-flash-02-23
 openrouter,OpenRouter,qwen3-5-plus-02-15,Qwen: Qwen3.5 Plus 2026-02-15,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.26,,1.56,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-plus-02-15
 openrouter,OpenRouter,qwen3-5-plus-20260420,Qwen: Qwen3.5 Plus 2026-04-20,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.3,,1.8,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.5-plus-20260420
 openrouter,OpenRouter,qwen3-6-27b,Qwen: Qwen3.6 27B,Qwen,general,262144,81920,text|image|video,true,false,false,standard,,,,,USD,0.25,0.025,2,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-27b
-openrouter,OpenRouter,qwen3-6-35b-a3b,Qwen: Qwen3.6 35B A3B,Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.05,0.025,0.7,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-35b-a3b
+openrouter,OpenRouter,qwen3-6-35b-a3b,Qwen: Qwen3.6 35B A3B,Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.05,0.024,0.69,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-35b-a3b
 openrouter,OpenRouter,qwen3-6-flash,Qwen: Qwen3.6 Flash,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.1875,,1.125,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-flash
 openrouter,OpenRouter,qwen3-6-max-preview,Qwen: Qwen3.6 Max Preview,Qwen,general,262144,65536,text,true,false,false,standard,,,,,USD,1.027,,6.162,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-max-preview
-openrouter,OpenRouter,qwen3-6-plus,Qwen: Qwen3.6 Plus,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.325,,1.95,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-plus
+openrouter,OpenRouter,qwen3-6-plus,Qwen: Qwen3.6 Plus,Qwen,general,1000000,65536,text|video|image,true,false,false,standard,,,,,USD,0.325,,1.95,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.6-plus
 openrouter,OpenRouter,qwen3-7-flash,Qwen: Qwen3.7 Flash,Qwen,general,1000000,65536,text|image|video,true,false,false,standard,,,,,USD,0.03,0.006,0.13,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.7-flash
 openrouter,OpenRouter,qwen3-7-max,Qwen: Qwen3.7 Max,Qwen,general,1000000,131072,text,true,false,false,standard,,,,,USD,1.475,0.295,4.425,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.7-max
 openrouter,OpenRouter,qwen3-7-plus,Qwen: Qwen3.7 Plus,Qwen,general,1000000,131072,text|image,true,false,false,standard,,,,,USD,0.32,0.064,1.28,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.7-plus
 openrouter,OpenRouter,qwen3-7-plus-batch,Qwen: Qwen3.7 Plus (batch),Qwen,general,262144,131072,text|image,true,false,false,standard,,,,,USD,0.23,,0.92,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.7-plus:batch
 openrouter,OpenRouter,qwen3-8-2-4t-a95b,Qwen: Qwen3.8 2.4T A95B,Qwen,general,1048576,65536,text,true,false,false,standard,,,,,USD,2,0.25,6,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-2.4t-a95b
 openrouter,OpenRouter,qwen3-8-2-4t-a95b-batch,Qwen: Qwen3.8 2.4T A95B (batch),Qwen,general,1010000,909000,text,true,false,false,standard,,,,,USD,2,0.25,6,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch
-openrouter,OpenRouter,qwen3-8-27b,Qwen: Qwen3.8 27B,Qwen,general,1024000,131072,text|image|video,true,false,false,standard,,,,,USD,0.035,0.0175,1.5,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-27b
+openrouter,OpenRouter,qwen3-8-27b,Qwen: Qwen3.8 27B,Qwen,general,1024000,235929,text|image|video,true,false,false,standard,,,,,USD,0.035,0.0175,1.5,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-27b
 openrouter,OpenRouter,qwen3-8-27b-batch,Qwen: Qwen3.8 27B (batch),Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0.16,0.04,2,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-27b:batch
 openrouter,OpenRouter,qwen3-8-27b-free,Qwen: Qwen3.8 27B (free),Qwen,general,262144,235929,text|image|video,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-27b:free
 openrouter,OpenRouter,qwen3-8b,Qwen: Qwen3 8B,Qwen,general,131072,8192,text,true,false,false,standard,,,,,USD,0.117,,0.455,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3-8b
@@ -2599,7 +2601,7 @@ openrouter,OpenRouter,qwen3-8-max,Qwen: Qwen3.8 Max,Qwen,general,1000000,131072,
 openrouter,OpenRouter,qwen3-8-max-0902,Qwen: Qwen3.8 Max (0902),Qwen,general,1000000,131072,text|image|video,true,false,false,standard,,,,,USD,2,0.25,6,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-max-0902
 openrouter,OpenRouter,qwen3-8-max-0902-batch,Qwen: Qwen3.8 Max (0902) (batch),Qwen,general,262144,131072,text|image|video,true,false,false,standard,,,,,USD,1.15,,3.45,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-max-0902:batch
 openrouter,OpenRouter,qwen3-8-max-prime,Qwen: Qwen3.8 Max Prime,Qwen,general,1000000,131072,text|image|video,true,false,false,standard,,,,,USD,4,0.5,12,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-max-prime
-openrouter,OpenRouter,qwen3-8-omni-flash,Qwen: Qwen3.8 Omni Flash,Qwen,general,1000000,131072,text|image|audio|video,true,false,false,standard,,,,,USD,0.15,0.016,0.47,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-omni-flash
+openrouter,OpenRouter,qwen3-8-omni-flash,Qwen: Qwen3.8 Omni Flash,Qwen,general,1000000,131072,image|text|audio|video,true,false,false,standard,,,,,USD,0.15,0.016,0.47,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3.8-omni-flash
 openrouter,OpenRouter,qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,Qwen,general,262144,235929,text,true,false,false,standard,,,,,USD,0.07,,0.28,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3-coder-30b-a3b-instruct
 openrouter,OpenRouter,qwen3-coder,Qwen: Qwen3 Coder 480B A35B,Qwen,general,262144,65536,text,true,false,false,standard,,,,,USD,0.3,0.1,1,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3-coder
 openrouter,OpenRouter,qwen3-coder-free,Qwen: Qwen3 Coder 480B A35B (free),Qwen,general,1048576,262000,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/qwen/qwen3-coder:free
@@ -2625,7 +2627,7 @@ openrouter,OpenRouter,qwen-plus-2025-07-28-thinking,Qwen: Qwen Plus 0728 (thinki
 openrouter,OpenRouter,daisyrose-27b,RadixArk: DaisyRose 27B,,general,262144,235929,text|image,true,false,false,standard,,,,,USD,0.15,0.0375,1.875,,,,,,,,,,,,,,,https://openrouter.ai/radixark/daisyrose-27b
 openrouter,OpenRouter,flint-v1-0-free,Recursive: Flint (free),,general,262144,235929,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/recursive/flint-v1.0:free
 openrouter,OpenRouter,beam-1-0-501b-a23b,Reflection: Beam 1.0 501B A23B,,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.25,0.05,1,,,,,,,,,,,,,,,https://openrouter.ai/reflection/beam-1.0-501b-a23b
-openrouter,OpenRouter,reka-edge,Reka Edge,,general,16384,14745,text|image|video,true,false,false,standard,,,,,USD,0.1,,0.1,,,,,,,,,,,,,,,https://openrouter.ai/rekaai/reka-edge
+openrouter,OpenRouter,reka-edge,Reka Edge,,general,16384,14745,video|text|image,true,false,false,standard,,,,,USD,0.1,,0.1,,,,,,,,,,,,,,,https://openrouter.ai/rekaai/reka-edge
 openrouter,OpenRouter,reka-flash-3,Reka Flash 3,,general,65536,58982,text,false,false,false,standard,,,,,USD,0.1,,0.2,,,,,,,,,,,,,,,https://openrouter.ai/rekaai/reka-flash-3
 openrouter,OpenRouter,relace-apply-3,Relace: Relace Apply 3,,general,256000,128000,text,false,false,false,standard,,,,,USD,0.85,,1.25,,,,,,,,,,,,,,,https://openrouter.ai/relace/relace-apply-3
 openrouter,OpenRouter,relace-search,Relace: Relace Search,,general,256000,128000,text,true,false,false,standard,,,,,USD,1,,3,,,,,,,,,,,,,,,https://openrouter.ai/relace/relace-search
@@ -2697,7 +2699,7 @@ openrouter,OpenRouter,grok-latest,xAI: Grok Latest,,general,500000,450000,text|i
 openrouter,OpenRouter,mimo-v2-5,Xiaomi: MiMo-V2.5,,general,1000000,65536,text|image|audio|video,true,false,false,standard,,,,,USD,0.4,0.08,2,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.5
 openrouter,OpenRouter,mimo-v2-5-pro,Xiaomi: MiMo-V2.5-Pro,,general,262144,235929,text,true,false,false,standard,,,,,USD,0.48,0.096,1.8,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.5-pro
 openrouter,OpenRouter,mimo-v2-6-flash,Xiaomi: MiMo-V2.6-Flash,,general,1048576,131072,text|image|audio|video,true,false,false,standard,,,,,USD,0.1,0.0028,0.28,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.6-flash
-openrouter,OpenRouter,mimo-v2-6-flash-mopd,Xiaomi: MiMo-V2.6-Flash-MOPD,,general,1048576,32768,text|image|audio|video,true,false,false,standard,,,,,USD,0.5,0.05,1,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd
+openrouter,OpenRouter,mimo-v2-6-flash-mopd,Xiaomi: MiMo-V2.6-Flash-MOPD,,general,1048576,32768,audio|text|image|video,true,false,false,standard,,,,,USD,0.35,0.035,0.7,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd
 openrouter,OpenRouter,mimo-v2-6-pro,Xiaomi: MiMo-V2.6-Pro,,general,1048576,131072,text|image|audio|video,true,false,false,standard,,,,,USD,0.387,0.00324,0.783,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.6-pro
 openrouter,OpenRouter,mimo-v2-6-pro-ultraspeed,Xiaomi: MiMo-V2.6-Pro-UltraSpeed,,general,1048576,131072,text|image|audio|video,true,false,false,standard,,,,,USD,4.35,0.036,8.7,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed
 openrouter,OpenRouter,mimo-v2-flash,Xiaomi: MiMo-V2-Flash,,general,262144,65536,text,true,false,false,standard,,,,,USD,0.1,,0.3,,,,,,,,,,,,,,,https://openrouter.ai/xiaomi/mimo-v2-flash
@@ -2709,8 +2711,8 @@ openrouter,OpenRouter,glm-4-5,Z.ai: GLM 4.5,,general,131072,98304,text,true,fals
 openrouter,OpenRouter,glm-4-5-air,Z.ai: GLM 4.5 Air,,general,131072,98304,text,true,false,false,standard,,,,,USD,0.13,0.025,0.85,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.5-air
 openrouter,OpenRouter,glm-4-5-air-free,Z.ai: GLM 4.5 Air (free),,general,131072,96000,text,true,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.5-air:free
 openrouter,OpenRouter,glm-4-5v,Z.ai: GLM 4.5V,,general,65536,16384,text|image,true,false,false,standard,,,,,USD,0.6,0.11,1.8,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.5v
-openrouter,OpenRouter,glm-4-6,Z.ai: GLM 4.6,,general,204800,131072,text,true,false,false,standard,,,,,USD,0.43,0.08,1.75,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.6
-openrouter,OpenRouter,glm-4-6v,Z.ai: GLM 4.6V,,general,131072,32768,text|image|video,true,false,false,standard,,,,,USD,0.3,0.05,0.9,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.6v
+openrouter,OpenRouter,glm-4-6,Z.ai: GLM 4.6,,general,202752,131072,text,true,false,false,standard,,,,,USD,0.43,0.08,1.75,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.6
+openrouter,OpenRouter,glm-4-6v,Z.ai: GLM 4.6V,,general,131072,32768,video|text|image,true,false,false,standard,,,,,USD,0.3,0.05,0.9,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.6v
 openrouter,OpenRouter,glm-4-7,Z.ai: GLM 4.7,,general,204800,131072,text,true,false,false,standard,,,,,USD,0.4,0.08,1.75,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.7
 openrouter,OpenRouter,glm-4-7-flash,Z.ai: GLM 4.7 Flash,,general,131072,117964,text,true,false,false,standard,,,,,USD,0.06,0.01,0.4,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-4.7-flash
 openrouter,OpenRouter,glm-5,Z.ai: GLM 5,,general,204800,131072,text,true,false,false,standard,,,,,USD,0.6,0.12,1.92,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5
@@ -2726,7 +2728,7 @@ openrouter,OpenRouter,glm-5-3-flashx,Z.ai: GLM 5.3 FlashX,,general,1048576,13107
 openrouter,OpenRouter,glm-5-3-flashx-legal,Z.ai: GLM 5.3 FlashX Legal,,general,1048576,131072,text|image|video,true,false,false,standard,,,,,USD,0.37,0.075,1.25,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5.3-flashx-legal
 openrouter,OpenRouter,glm-5-3-prime,Z.ai: GLM 5.3 Prime,,general,1000000,131072,text,true,false,false,standard,,,,,USD,1.68,0.336,5.28,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5.3-prime
 openrouter,OpenRouter,glm-5-turbo,Z.ai: GLM 5 Turbo,,general,202752,131072,text,true,false,false,standard,,,,,USD,1.2,0.24,4,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5-turbo
-openrouter,OpenRouter,glm-5v-turbo,Z.ai: GLM 5V Turbo,,general,202752,131072,video|text|image,true,false,false,standard,,,,,USD,1.2,0.24,4,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5v-turbo
+openrouter,OpenRouter,glm-5v-turbo,Z.ai: GLM 5V Turbo,,general,202752,131072,image|video|text,true,false,false,standard,,,,,USD,1.2,0.24,4,,,,,,,,,,,,,,,https://openrouter.ai/z-ai/glm-5v-turbo
 openrouter,OpenRouter,glm-flash-latest,Z.ai: GLM Flash Latest,,general,1048576,131072,video|text|image,true,false,false,standard,,,,,USD,0.0356,0.03,0.0815,,,,,,,,,,,,,,,https://openrouter.ai/~z-ai/glm-flash-latest
 openrouter,OpenRouter,glm-latest,Z.ai: GLM Latest,,general,1048576,943718,text,true,false,false,standard,,,,,USD,0.0699,0.0689,1.4,,,,,,,,,,,,,,,https://openrouter.ai/~z-ai/glm-latest
 perplexity,Perplexity,sonar,Sonar,Perplexity,general,,,text,true,false,true,standard,,,,,USD,0.25,0.0625,2.5,,,,,,,,,,,,,,,https://docs.perplexity.ai/docs/agent-api/models.md
@@ -3412,12 +3414,12 @@ qwen,Qwen,qwen-audio-3-0-tts-plus,qwen-audio-3.0-tts-plus,Qwen,general,,,speech,
 qwen,Qwen,qwen-audio-3-0-tts-plus,qwen-audio-3.0-tts-plus,Qwen,general,,,speech,true,false,false,standard,,,,international,CNY,,,,,,,,149.884,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,qwen-audio-3-1-asr-flash,qwen-audio-3.1-asr-flash,Qwen,general,,,transcription|audio,true,false,false,standard,,,,china_mainland,CNY,0.8,,2.7,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,qwen-audio-3-1-asr-flash,qwen-audio-3.1-asr-flash,Qwen,general,,,transcription|audio,true,false,false,standard,,,,international,CNY,1.094,,3.427,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-filetrans,qwen-audio-3.1-asr-flash-filetrans,Qwen,general,,,audio|transcription,true,false,false,standard,,,,china_mainland,CNY,0.8,,2.7,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-filetrans,qwen-audio-3.1-asr-flash-filetrans,Qwen,general,,,audio|transcription,true,false,false,standard,,,,international,CNY,1.094,,3.427,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-message,qwen-audio-3.1-asr-flash-message,Qwen,general,,,audio|transcription,true,false,false,standard,,,,china_mainland,CNY,6,,4.5,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-message,qwen-audio-3.1-asr-flash-message,Qwen,general,,,audio|transcription,true,false,false,standard,,,,international,CNY,6.781,,5.104,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-streaming,qwen-audio-3.1-asr-flash-streaming,Qwen,general,,,audio|transcription,true,false,false,standard,,,,international,CNY,6.781,,5.104,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
-qwen,Qwen,qwen-audio-3-1-asr-flash-streaming,qwen-audio-3.1-asr-flash-streaming,Qwen,general,,,audio|transcription,true,false,false,standard,,,,china_mainland,CNY,6,,4.5,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-filetrans,qwen-audio-3.1-asr-flash-filetrans,Qwen,general,,,transcription|audio,true,false,false,standard,,,,china_mainland,CNY,0.8,,2.7,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-filetrans,qwen-audio-3.1-asr-flash-filetrans,Qwen,general,,,transcription|audio,true,false,false,standard,,,,international,CNY,1.094,,3.427,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-message,qwen-audio-3.1-asr-flash-message,Qwen,general,,,transcription|audio,true,false,false,standard,,,,china_mainland,CNY,6,,4.5,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-message,qwen-audio-3.1-asr-flash-message,Qwen,general,,,transcription|audio,true,false,false,standard,,,,international,CNY,6.781,,5.104,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-streaming,qwen-audio-3.1-asr-flash-streaming,Qwen,general,,,transcription|audio,true,false,false,standard,,,,international,CNY,6.781,,5.104,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,qwen-audio-3-1-asr-flash-streaming,qwen-audio-3.1-asr-flash-streaming,Qwen,general,,,transcription|audio,true,false,false,standard,,,,china_mainland,CNY,6,,4.5,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,qwen-audio-3-1-captioner,qwen-audio-3.1-captioner,Qwen,general,,,speech,true,false,false,standard,,,,china_mainland,CNY,0.8,,2.7,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,qwen-audio-3-1-realtime-flash,qwen-audio-3.1-realtime-flash,Qwen,general,,,speech,true,false,false,standard,,,text,china_mainland,CNY,1.5,,4.5,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,qwen-audio-3-1-realtime-flash,qwen-audio-3.1-realtime-flash,Qwen,general,,,speech,true,false,false,standard,,,audio,china_mainland,CNY,6,,12,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
@@ -3856,6 +3858,7 @@ qwen,Qwen,wordart-texture,wordart-texture,Qwen,general,,,image,false,false,false
 qwen,Qwen,xiaomi-mimo-v2-5-pro,xiaomi/mimo-v2.5-pro,Qwen,general,1000000,,text,false,false,false,standard,0,256000,,china_mainland,CNY,7,,21,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,xiaomi-mimo-v2-5-pro,xiaomi/mimo-v2.5-pro,Qwen,general,1000000,,text,false,false,false,standard,256000,1000000,,china_mainland,CNY,14,,42,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,xiaomi-mimo-v2-6-pro-ultraspeed,xiaomi/mimo-v2.6-pro-ultraspeed,Qwen,general,1000000,,text,false,false,false,standard,0,1000000,,china_mainland,CNY,30,,60,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
+qwen,Qwen,xing-xing4-1-preview,Xing/Xing4.1-Preview,Qwen,general,,,text,false,false,false,standard,,,,china_mainland,CNY,1.5,,6,,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,zhipu-glm-5,ZHIPU/GLM-5,Qwen,general,,,text,false,false,false,standard,,,,china_mainland,CNY,6,,22,22,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,zhipu-glm-5-1,ZHIPU/GLM-5.1,Qwen,general,,,text,false,false,false,standard,,,,china_mainland,CNY,8,,28,28,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
 qwen,Qwen,zhipu-glm-5-2,ZHIPU/GLM-5.2,Qwen,general,,,text,false,false,false,standard,,,,china_mainland,CNY,8,,28,28,,,,,,,,,,,,,,https://help.aliyun.com/zh/model-studio/model-pricing
@@ -3909,35 +3912,35 @@ sambanova,SambaNova Cloud,minimax-m3-1-flash,MiniMax-M3.1-Flash,MiniMax,general,
 sambanova,SambaNova Cloud,spec-prefill-8b,spec-prefill-8b,,general,4096,4096,text,false,false,false,standard,,,,,USD,0,,0,,,,,,,,,,,,,,,https://cloud.sambanova.ai/plans/pricing
 siliconflow,SiliconFlow,bge-large-en-v1-5,BAAI/bge-large-en-v1.5,BGE,general,512,,embedding,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,bge-large-zh-v1-5,BAAI/bge-large-zh-v1.5,BGE,general,512,,embedding,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,bge-m3,BAAI/bge-m3,BGE,general,8192,,embedding,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,bge-reranker-v2-m3,BAAI/bge-reranker-v2-m3,BGE,general,8192,,rerank,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,bge-m3,BAAI/bge-m3,BGE,general,8192,,rerank,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,bge-reranker-v2-m3,BAAI/bge-reranker-v2-m3,BGE,general,8192,,text,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,ernie-image-turbo,baidu/ERNIE-Image-Turbo,ERNIE,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.11,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,seed-oss-36b-instruct,ByteDance-Seed/Seed-OSS-36B-Instruct,,general,262144,,text,true,false,false,standard,,,,,CNY,1.5,,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,seed-oss-36b-instruct,ByteDance-Seed/Seed-OSS-36B-Instruct,,general,262144,,audio,true,false,false,standard,,,,,CNY,1.5,,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,deepseek-v3-1-terminus,deepseek-ai/DeepSeek-V3.1-Terminus,DeepSeek,general,163840,,text,true,false,true,standard,,,,,CNY,4,0.4,12,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,deepseek-v3-2,deepseek-ai/DeepSeek-V3.2,DeepSeek,general,163840,,text,true,false,true,standard,,,,,CNY,4,0.4,6,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,deepseek-v4-1-flash,deepseek-ai/DeepSeek-V4.1-Flash,DeepSeek,general,1048576,,text|image,true,false,true,standard,,,费用发生时段: 0点～2点/8点～24点,,CNY,2,0.04,8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,deepseek-v4-1-flash,deepseek-ai/DeepSeek-V4.1-Flash,DeepSeek,general,1048576,,text|image,true,false,true,standard,,,费用发生时段: 2点～8点,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,deepseek-v4-1-flash,deepseek-ai/DeepSeek-V4.1-Flash,DeepSeek,general,1048576,,audio,true,false,false,standard,,,费用发生时段: 0点～2点/8点～24点,,CNY,2,0.04,8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,deepseek-v4-1-flash,deepseek-ai/DeepSeek-V4.1-Flash,DeepSeek,general,1048576,,audio,true,false,false,standard,,,费用发生时段: 2点～8点,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,deepseek-v4-flash,deepseek-ai/DeepSeek-V4-Flash,DeepSeek,general,1048576,,text,true,false,true,standard,,,,,CNY,1,0.02,2,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,deepseek-v4-flash,deepseek-ai/DeepSeek-V4-Flash,DeepSeek,general,1048576,,text,true,false,true,standard,,,费用发生时段: 2点～8点,,CNY,1.5,0.15,4.5,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,deepseek-v4-flash,deepseek-ai/DeepSeek-V4-Flash,DeepSeek,general,1048576,,text,true,false,true,standard,,,费用发生时段: 0点～2点/8点～24点,,CNY,3,0.3,9,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,deepseek-v4-pro,deepseek-ai/DeepSeek-V4-Pro,DeepSeek,general,1048576,,text,true,false,true,standard,,,,,CNY,12,1,24,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,moss-ttsd-v0-5,fnlp/MOSS-TTSD-v0.5,,general,,,speech,false,false,false,standard,,,,,CNY,,,,,,,,50,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,deepseek-v4-pro,deepseek-ai/DeepSeek-V4-Pro,DeepSeek,general,1048576,,text|image,true,false,true,standard,,,,,CNY,12,1,24,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,moss-ttsd-v0-5,fnlp/MOSS-TTSD-v0.5,,general,,,text,false,false,false,standard,,,,,CNY,,,,,,,,50,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,cosyvoice2-0-5b,FunAudioLLM/CosyVoice2-0.5B,,general,,,speech,false,false,false,standard,,,,,CNY,,,,,,,,50,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,sensevoicesmall,FunAudioLLM/SenseVoiceSmall,,general,,,transcription|audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,sensevoicesmall,FunAudioLLM/SenseVoiceSmall,,general,,,image,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,ling-flash-2-0,inclusionAI/Ling-flash-2.0,Ling,general,131072,,text,true,false,false,standard,,,,,CNY,1,,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,ling-mini-2-0,inclusionAI/Ling-mini-2.0,Ling,general,131072,,text,true,false,false,standard,,,,,CNY,0.5,,2,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,kolors,Kwai-Kolors/Kolors,Kolors,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,longcat-2-0,meituan-longcat/LongCat-2.0,,general,1048576,,text,true,false,true,standard,,,,,CNY,5,0.1,20,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,minimax-h3,MiniMaxAI/MiniMax-H3,MiniMax,general,,,video,false,false,false,standard,,,,,CNY,,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,kolors,Kwai-Kolors/Kolors,Kolors,general,,,video,false,false,false,standard,,,,,CNY,,,,,,0,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,longcat-2-0,meituan-longcat/LongCat-2.0,,general,1048576,,image|text,true,false,true,standard,,,,,CNY,5,0.1,20,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,minimax-h3,MiniMaxAI/MiniMax-H3,MiniMax,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.5,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,minimax-m2-5,MiniMaxAI/MiniMax-M2.5,MiniMax,general,196608,,text,true,false,true,standard,,,,,CNY,2.1,0.21,8.4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,kimi-k2-5,moonshotai/Kimi-K2.5,Kimi,general,262144,,text|image,true,false,true,standard,,,,,CNY,4,0.7,21,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,kimi-k2-6,moonshotai/Kimi-K2.6,Kimi,general,262144,,text|image,true,false,true,standard,,,,,CNY,6.5,1.1,27,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,kimi-k2-7-code,moonshotai/Kimi-K2.7-Code,Kimi,general,262144,,text|image,true,false,true,standard,,,,,CNY,6.5,1.3,27,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,kimi-k2-6,moonshotai/Kimi-K2.6,Kimi,general,262144,,image,true,false,true,standard,,,,,CNY,6.5,1.1,27,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,kimi-k2-7-code,moonshotai/Kimi-K2.7-Code,Kimi,general,262144,,text,true,false,true,standard,,,,,CNY,6.5,1.3,27,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,bce-embedding-base-v1,netease-youdao/bce-embedding-base_v1,BCE,general,4096,,embedding,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,bce-reranker-base-v1,netease-youdao/bce-reranker-base_v1,BCE,general,4096,,rerank,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,nex-n2-pro,nex-agi/Nex-N2-Pro,,general,262144,,image|text,true,false,true,standard,,,,,CNY,1.75,0.17,7,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,moss-image,OpenMOSS-Team/MOSS-Image,,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,paddleocr-vl-1-5,PaddlePaddle/PaddleOCR-VL-1.5,,general,,,text|image,false,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,moss-image,OpenMOSS-Team/MOSS-Image,,general,,,text|image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,paddleocr-vl-1-5,PaddlePaddle/PaddleOCR-VL-1.5,,general,,,embedding,false,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen3-5-122b-a10b,Qwen/Qwen3.5-122B-A10B,Qwen,general,262144,,image|text,true,false,false,standard,0,128000,"输入 [0,128k)",,CNY,0.8,,6.4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen3-5-122b-a10b,Qwen/Qwen3.5-122B-A10B,Qwen,general,262144,,image|text,true,false,false,standard,128000,256000,"输入 [128k,256k)",,CNY,2,,16,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen3-5-122b-a10b,Qwen/Qwen3.5-122B-A10B,Qwen,general,262144,,image|text,true,false,false,standard,,,1314,,CNY,2,,16,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
@@ -3960,11 +3963,11 @@ siliconflow,SiliconFlow,qwen3-5-9b,Qwen/Qwen3.5-9B,Qwen,general,262144,,text|ima
 siliconflow,SiliconFlow,qwen3-5-9b,Qwen/Qwen3.5-9B,Qwen,general,262144,,text|image,true,false,false,standard,128000,,"输入 [128k, +∞)",,CNY,1.5,,12,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen3-6-27b,Qwen/Qwen3.6-27B,Qwen,general,262144,,text|image,true,false,false,standard,,,,,CNY,3,,18,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen3-6-35b-a3b,Qwen/Qwen3.6-35B-A3B,Qwen,general,262144,,text|image,true,false,false,standard,,,,,CNY,1.8,,10.8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,qwen3-8-27b,Qwen/Qwen3.8-27B,Qwen,general,262144,,text|image,true,false,false,standard,,,,,CNY,3,,12,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,qwen3-asr-1-7b,Qwen/Qwen3-ASR-1.7B,Qwen,general,,,transcription|audio,false,false,false,standard,,,,,CNY,,,,,,,,,0.792,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,qwen3-8-27b,Qwen/Qwen3.8-27B,Qwen,general,262144,,text,true,false,false,standard,,,,,CNY,3,,12,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,qwen3-asr-1-7b,Qwen/Qwen3-ASR-1.7B,Qwen,general,,,text,false,false,false,standard,,,,,CNY,,,,,,,,,0.792,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen-image,Qwen/Qwen-Image,Qwen,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,qwen-image-edit,Qwen/Qwen-Image-Edit,Qwen,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,qwen-image-edit-2509,Qwen/Qwen-Image-Edit-2509,Qwen,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,qwen-image-edit-2509,Qwen/Qwen-Image-Edit-2509,Qwen,general,,,text,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,step-3-5-flash,stepfun-ai/Step-3.5-Flash,Step,general,262144,,text,true,false,false,standard,,,,,CNY,0.7,,2.1,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,telespeechasr,TeleAI/TeleSpeechASR,,general,,,audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,hunyuan-a13b-instruct,tencent/Hunyuan-A13B-Instruct,Hunyuan,general,131072,,text,false,false,false,standard,,,费用发生时段: 9点～18点,,CNY,1,,4,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
@@ -3975,17 +3978,17 @@ siliconflow,SiliconFlow,hunyuan-mt-7b,tencent/Hunyuan-MT-7B,Hunyuan,general,3276
 siliconflow,SiliconFlow,hy4-preview,tencent/Hy4-preview,,general,1048576,,text,true,false,true,standard,,,,,CNY,6,0.3,18,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-4-32b-0414,THUDM/GLM-4-32B-0414,GLM,general,32768,,text,true,false,false,standard,,,,,CNY,1.89,,1.89,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-4-9b-0414,THUDM/GLM-4-9B-0414,GLM,general,32768,,text,true,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,glm-z1-9b-0414,THUDM/GLM-Z1-9B-0414,GLM,general,131072,,text,true,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,glm-z1-9b-0414,THUDM/GLM-Z1-9B-0414,GLM,general,131072,,image,true,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,z-image,Tongyi-MAI/Z-Image,Yi,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.3,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,z-image-turbo,Tongyi-MAI/Z-Image-Turbo,Yi,general,,,image,false,false,false,standard,,,,,CNY,,,,,,0.1,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,z-image-turbo,Tongyi-MAI/Z-Image-Turbo,Yi,general,,,audio,false,false,false,standard,,,,,CNY,,,,,,0.1,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,wan2-2-i2v-a14b,Wan-AI/Wan2.2-I2V-A14B,Wan,general,,,video,false,false,false,standard,,,,,CNY,,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,wan2-2-t2v-a14b,Wan-AI/Wan2.2-T2V-A14B,Wan,general,,,video,false,false,false,standard,,,,,CNY,,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,xing4-0-29b,XingChenAGI/Xing4.0-29B,,general,262144,,text,true,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,xing-audio4-0-asr-preview,XingChenAGI/Xing-Audio4.0-ASR-Preview,,general,,,transcription|audio,false,false,false,standard,,,,,CNY,,,,,,,,,0.6048,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,xing4-0-29b,XingChenAGI/Xing4.0-29B,,general,262144,,audio,true,false,false,standard,,,,,CNY,0,,0,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,xing-audio4-0-asr-preview,XingChenAGI/Xing-Audio4.0-ASR-Preview,,general,,,text,false,false,false,standard,,,,,CNY,,,,,,,,,0.6048,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,xingchenasr-diarize-v3-0,XingChenAGI/XingChenASR-Diarize-V3.0,,general,,,transcription|audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,xingchenasr-v3-2,XingChenAGI/XingChenASR-V3.2,,general,,,transcription|audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,xingchenasr-v3-2-ultra,XingChenAGI/XingChenASR-V3.2-Ultra,,general,,,transcription|audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,xingchengsr-v1-0,XingChenAGI/XingChenGSR-V1.0,,general,,,audio,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,xingchengsr-v1-0,XingChenAGI/XingChenGSR-V1.0,,general,,,text|image,false,false,false,standard,,,,,CNY,0,,,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-4-5-air,zai-org/GLM-4.5-Air,GLM,general,131072,,text,true,false,false,standard,,,,,CNY,1,,6,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-4-5v,zai-org/GLM-4.5V,GLM,general,65536,,text|image,true,false,false,standard,,,,,CNY,1,,6,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-4-7,zai-org/GLM-4.7,GLM,general,202752,,text,true,false,true,standard,0,32000,"输入 [0,32k) 输出 [0,200)",,CNY,2,0.4,8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
@@ -3998,9 +4001,9 @@ siliconflow,SiliconFlow,glm-5-1,zai-org/GLM-5.1,GLM,general,202752,,text,true,fa
 siliconflow,SiliconFlow,glm-5-1,zai-org/GLM-5.1,GLM,general,202752,,text,true,false,true,standard,0,32000,"输入 [0, 32k)",,CNY,6,1.3,24,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-5-1,zai-org/GLM-5.1,GLM,general,202752,,text,true,false,true,standard,32000,,"输入 [32k, +∞)",,CNY,8,2,28,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
 siliconflow,SiliconFlow,glm-5-2,zai-org/GLM-5.2,GLM,general,1048576,,text,true,false,true,standard,,,,,CNY,8,2,28,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,glm-5-3,zai-org/GLM-5.3,GLM,general,1048576,,text,true,false,true,standard,,,,,CNY,8,2,28,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-siliconflow,SiliconFlow,glm-5-3-flash,zai-org/GLM-5.3-Flash,GLM,general,1048576,,text|image,true,false,true,standard,,,,,CNY,0.8,0.23,2.8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
-stepfun,StepFun,step-1o-audio,step-1o-audio,Step,general,,,audio|text,false,false,true,standard,,,,,CNY,25,5,60,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
+siliconflow,SiliconFlow,glm-5-3,zai-org/GLM-5.3,GLM,general,1048576,,image|text,true,false,true,standard,,,,,CNY,8,2,28,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+siliconflow,SiliconFlow,glm-5-3-flash,zai-org/GLM-5.3-Flash,GLM,general,1048576,,text,true,false,true,standard,,,,,CNY,0.8,0.23,2.8,,,,,,,,,,,,,,,https://siliconflow.cn/pricing
+stepfun,StepFun,step-1o-audio,step-1o-audio,Step,general,,,text|audio,false,false,true,standard,,,,,CNY,25,5,60,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 stepfun,StepFun,step-1o-turbo-vision,step-1o-turbo-vision,Step,general,,,image|text,false,false,true,standard,,,,,CNY,2.5,0.5,8,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 stepfun,StepFun,step-3-5-flash,step-3.5-flash,Step,general,,,text,false,false,true,standard,,,,,CNY,0.7,0.14,2.1,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 stepfun,StepFun,step-3-5-flash-2603,step-3.5-flash-2603,Step,general,,,text,false,false,true,standard,,,,,CNY,0.7,0.14,2.1,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
@@ -4008,8 +4011,8 @@ stepfun,StepFun,step-3-7-flash,step-3.7-flash,Step,general,,,text,false,false,tr
 stepfun,StepFun,step-5-preview,step-5-preview,Step,general,,,text,false,false,true,standard,,,,,CNY,7,0.7,20,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 stepfun,StepFun,step-audio-2,step-audio-2,Step,general,,,audio|text,false,false,true,standard,,,,,CNY,10,2,70,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 stepfun,StepFun,stepaudio-2-5-chat,stepaudio-2.5-chat,Step,general,,,audio|text,false,false,true,standard,,,,,CNY,13,3,32,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
-stepfun,StepFun,stepaudio-2-5-realtime,stepaudio-2.5-realtime,Step,general,,,audio|text,false,false,true,standard,,,,,CNY,13,3,90,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
-stepfun,StepFun,step-audio-r1-5,step-audio-r1.5,Step,general,,,audio|text,false,false,true,standard,,,,,CNY,10,2,105,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
+stepfun,StepFun,stepaudio-2-5-realtime,stepaudio-2.5-realtime,Step,general,,,text|audio,false,false,true,standard,,,,,CNY,13,3,90,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
+stepfun,StepFun,step-audio-r1-5,step-audio-r1.5,Step,general,,,text|audio,false,false,true,standard,,,,,CNY,10,2,105,,,,,,,,,,,,,,,https://platform.stepfun.com/docs/zh/guides/pricing/details
 volcano-ark,Volcano Ark,deepseek-r1,deepseek-r1,DeepSeek,general,,,text,true,true,true,batch,,,,,CNY,2,0.8,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-r1,deepseek-r1,DeepSeek,general,,,text,true,true,true,standard,,,,,CNY,4,0.8,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v3,deepseek-v3,DeepSeek,general,,,text,true,true,true,batch,,,,,CNY,1,0.4,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4023,11 +4026,11 @@ volcano-ark,Volcano Ark,deepseek-v3-2,deepseek-v3.2,DeepSeek,general,128000,,tex
 volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,batch,,,,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,batch,,,空闲时段,,CNY,0.5,0.02,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,batch,,,高峰时段,,CNY,1,0.04,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,flex,,,,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,flex,,,空闲时段,,CNY,0.5,0.02,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,flex,,,高峰时段,,CNY,1,0.04,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,flex,,,,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,standard,,,空闲时段,,CNY,1,0.02,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,standard,,,高峰时段,,CNY,2,0.04,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,standard,,,空闲时段,,CNY,0.8,0.016,3.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,deepseek-v4-1-flash,deepseek-v4-1-flash,DeepSeek,general,,,text,true,true,true,standard,,,高峰时段,,CNY,1.6,0.032,6.4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-flash,deepseek-v4-flash 正式版,DeepSeek,general,,,text,true,true,true,batch,,,,,CNY,1.5,0.1,4.5,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-flash,deepseek-v4-flash 正式版,DeepSeek,general,,,text,true,true,true,flex,,,,,CNY,1.5,0.1,4.5,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,deepseek-v4-flash,deepseek-v4-flash 正式版,DeepSeek,general,,,text,true,true,true,priority,,,,,CNY,2,0.4,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4044,30 +4047,30 @@ volcano-ark,Volcano Ark,doubao-1-5-vision-pro,doubao-1.5-vision-pro,Doubao,gener
 volcano-ark,Volcano Ark,doubao-embedding-vision,doubao-embedding-vision,Doubao,embedding,,,embedding,false,false,false,standard,,,,,CNY,0.7,,,,,,1.8,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-pro-32k,doubao-pro-32k,Doubao,general,,,text,true,true,true,batch,,,,,CNY,0.8,0.16,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.4,0.16,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.6,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,1.2,0.16,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,0.4,0.16,1,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,1.2,0.16,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.6,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,1.2,0.16,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,2.4,0.16,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6,doubao-seed-1.6,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,0.8,0.16,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]",,CNY,0.075,0.03,0.75,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.15,0.03,1.5,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,0.3,0.03,3,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.15,0.03,1.5,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]",,CNY,0.075,0.03,0.75,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,0.15,0.03,1.5,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,0.3,0.03,3,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-flash,doubao-seed-1.6-flash,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,0.6,0.03,6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,0.15,0.06,0.3,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.15,0.06,1.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.3,0.06,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,0.6,0.06,6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.3,0.06,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.15,0.06,1.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,0.15,0.06,0.3,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.3,0.06,2.4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,0.6,0.06,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,1.2,0.06,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-lite,doubao-seed-1.6-lite,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,0.3,0.06,0.6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]",,CNY,0.4,0.16,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.6,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,1.2,0.16,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,0.6,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]",,CNY,0.4,0.16,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,1.2,0.16,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-6-vision,doubao-seed-1.6-vision,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,2.4,0.16,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4079,9 +4082,9 @@ volcano-ark,Volcano Ark,doubao-seed-1-8,doubao-seed-1.8,Doubao,general,256000,,t
 volcano-ark,Volcano Ark,doubao-seed-1-8,doubao-seed-1.8,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-8,doubao-seed-1.8,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,1.2,0.16,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-1-8,doubao-seed-1.8,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,2.4,0.16,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,4.8,1.92,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]",,CNY,1.6,0.64,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,batch,32000,128000,"输入长度 (32, 128]",,CNY,2.4,0.96,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,batch,128000,256000,"输入长度 (128, 256]",,CNY,4.8,1.92,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,3.2,0.64,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,4.8,0.96,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-code,doubao-seed-2.0-code,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,9.6,1.92,48,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4091,9 +4094,9 @@ volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,flex,0,32000,"输入长度 [0, 32]",,CNY,0.3,0.12,1.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,flex,32000,128000,"输入长度 (32, 128]",,CNY,0.45,0.18,2.7,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,flex,128000,256000,"输入长度 (128, 256]",,CNY,0.9,0.36,5.4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,1.8,0.36,10.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,1.2,0.24,7.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,priority,128000,256000,"输入长度 (128, 256]",,CNY,3.6,0.72,21.6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,1.2,0.24,7.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,1.8,0.36,10.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,0.9,0.18,5.4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,1.8,0.36,10.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-lite,doubao-seed-2.0-lite,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,0.6,0.12,3.6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4103,9 +4106,9 @@ volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,flex,0,32000,"输入长度 [0, 32]",,CNY,0.1,0.04,1,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,flex,32000,128000,"输入长度 (32, 128]",,CNY,0.2,0.08,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,flex,128000,256000,"输入长度 (128, 256]",,CNY,0.4,0.16,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,0.4,0.08,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,priority,128000,256000,"输入长度 (128, 256]",,CNY,1.6,0.32,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,0.4,0.08,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,0.2,0.04,2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,0.4,0.08,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-mini,doubao-seed-2.0-mini,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,0.8,0.16,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4115,9 +4118,9 @@ volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,2
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,flex,0,32000,"输入长度 [0, 32]",,CNY,1.6,0.64,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,flex,32000,128000,"输入长度 (32, 128]",,CNY,2.4,0.96,12,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,flex,128000,256000,"输入长度 (128, 256]",,CNY,4.8,1.92,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,9.6,1.92,48,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,14.4,2.88,72,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,priority,128000,256000,"输入长度 (128, 256]",,CNY,28.8,5.76,144,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,priority,32000,128000,"输入长度 (32, 128]",,CNY,14.4,2.88,72,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,priority,0,32000,"输入长度 [0, 32]",,CNY,9.6,1.92,48,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]",,CNY,3.2,0.64,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,standard,32000,128000,"输入长度 (32, 128]",,CNY,4.8,0.96,24,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-0-pro,doubao-seed-2.0-pro,Doubao,general,256000,,text,true,true,true,standard,128000,256000,"输入长度 (128, 256]",,CNY,9.6,1.92,48,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4125,8 +4128,8 @@ volcano-ark,Volcano Ark,doubao-seed-2-1-lite,doubao-seed-2.1-lite,Doubao,general
 volcano-ark,Volcano Ark,doubao-seed-2-1-lite,doubao-seed-2.1-lite,Doubao,general,1024000,,text,true,true,true,flex,0,1024000,"输入长度 [0, 1024]",,CNY,0.4,0.16,1.35,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-lite,doubao-seed-2.1-lite,Doubao,general,1024000,,text,true,true,true,priority,0,1024000,"输入长度 [0, 1024]",,CNY,1.6,0.32,5.4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-lite,doubao-seed-2.1-lite,Doubao,general,1024000,,text,true,true,true,standard,0,1024000,"输入长度 [0, 1024]",,CNY,0.8,0.16,2.7,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,batch,0,256000,"输入长度 [0, 256]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,batch,0,1024000,"输入长度 [0, 1024]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,batch,0,256000,"输入长度 [0, 256]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,flex,0,256000,"输入长度 [0, 256]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,flex,0,1024000,"输入长度 [0, 1024]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-2-1-pro,doubao-seed-2.1-pro,Doubao,general,1024000,,text,true,true,true,priority,0,256000,"输入长度 [0, 256]",,CNY,3,1.2,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4179,9 +4182,9 @@ volcano-ark,Volcano Ark,doubao-seedream-5-0-pro,doubao-seedream-5-0-pro按生图
 volcano-ark,Volcano Ark,doubao-seedream-5-5,doubao-seedream-5-5,Seedream,image,,,image,false,false,false,standard,,,,,CNY,,,,,,0.05,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-translation,doubao-seed-translation,Doubao,general,,,text,true,true,false,batch,,,,,CNY,0.6,0.24,1.8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,doubao-seed-translation,doubao-seed-translation,Doubao,general,,,text,true,true,false,standard,,,,,CNY,1.2,,3.6,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,1,0.4,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,1.5,0.6,7,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,batch,32000,200000,"输入长度 (32, 200]",,CNY,2,0.8,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,1.5,0.6,7,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
+volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,batch,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,1,0.4,4,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 [0, 0.2]",,CNY,2,0.4,8,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,standard,0,32000,"输入长度 [0, 32]且输出长度 (0.2,+∞)",,CNY,3,0.6,14,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,glm-4-7,glm-4.7,GLM,general,200000,,text,true,true,true,standard,32000,200000,"输入长度 (32, 200]",,CNY,4,0.8,16,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
@@ -4190,7 +4193,7 @@ volcano-ark,Volcano Ark,glm-5-3-flash,glm-5.3-flash,GLM,general,,,text,true,fals
 volcano-ark,Volcano Ark,kimi-k3-1-pro,kimi-k3.1-pro,Doubao,general,,,text,true,false,true,standard,,,,,CNY,13,1.3,68,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,seedance-1-0-pro,Seedance 1.0 pro,Seedance,video,,,video,false,false,false,standard,,,,,CNY,,,15,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
 volcano-ark,Volcano Ark,seedance-1-0-pro-fast,Seedance 1.0 pro fast,Seedance,video,,,video,false,false,false,standard,,,,,CNY,,,4.2,,,,,,,,,,,,,,,https://www.volcengine.com/docs/82379/1544106
-xai,xAI,grok-4.20-0309-non-reasoning,grok-4.20-0309-non-reasoning,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
+xai,xAI,grok-4.20-0309-non-reasoning,grok-4.20-0309-non-reasoning,Grok,general,1000000,,image|text,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-4.20-0309-reasoning,grok-4.20-0309-reasoning,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-4.20-multi-agent-0309,grok-4.20-multi-agent-0309,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
 xai,xAI,grok-4.3,grok-4.3,Grok,general,1000000,,text|image,true,true,true,standard,,,,,USD,1.25,0.2,2.5,,,,,,,,,,,,,,,https://docs.x.ai/developers/models
